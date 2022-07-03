@@ -1,5 +1,6 @@
 ## NPCs
 ```dataview
-LIST FROM "npcs"
+LIST role FROM #npc and -"templates"
+FLATTEN location
 WHERE location = "<% tp.frontmatter.loc_code %>"
 ```
