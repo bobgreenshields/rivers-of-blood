@@ -20,7 +20,7 @@ Assistant to [[Bishop Taryamre]] and chaos cultist
 - sometimes with [[Vlosvar Greruga]] and is known to he his friend
 
 #### Knows
-- where the [[Sewer Temple]] is
+- where the [[Catacomb Temple]] is
 - the other members of the chaos cult who live in [[Fallcrest]]
 - that the silversmith produces items for the cult
 - where the main temple is
