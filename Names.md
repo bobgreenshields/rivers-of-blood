@@ -2,12 +2,12 @@
 #### Male
 - [ ] Kidef Bodz
 - [ ] Glam Glevosk
-- [ ] Vlosvar Greruga
+- [x] Vlosvar Greruga
 - [ ] Vartil Meldume
 - [ ] Gakrern Tallore
 - [ ] Rarim Chuv
 - [ ] Sirloosk Nerudo
-- [ ] Abolo Dasqusti
+- [x] Abolo Dasqusti
 - [ ] Midrien Unzanza
 - [ ] Stran Woodenshield
 - [ ] Stonvor Frozenbrook
@@ -24,7 +24,7 @@
 - [ ] Tolra Kask
 - [ ] Za Vorgetsk
 - [ ] Yindrevi Ruvravrivzu
-- [ ] Sara Taryamre
+- [x] Sara Taryamre
 - [ ] Rudra Hyelmuvre
 - [ ] Zanepeih Boker
 - [ ] Zeiveh Rader
