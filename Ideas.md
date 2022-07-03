@@ -10,6 +10,8 @@
 	- maintained by Duegar
 ## Nodes
 - The [[Pure Alchemy | alchemist's house]]
+	- The Silversmith
 - [[Kobold Hall]]
 - The [[Sewer Temple]]
 - The [[Temple of Tyr]]
+- The Silversmith
