@@ -4,7 +4,7 @@ It can use a ranged psychic attack which can possibly stun and adversary.
 
 It can enter a stunned person through an orifice (usually mouth) and then control that being.  Watching this happen requires a save or the creature is incapacitated by the sheer horror.
 
-The Blood Demon can be used a plot device by possessing  npcs and getting them to do really evil things that are totally out of character.
+The Blood Demon can be used a plot device by possessing npcs and getting them to do really evil things that are totally out of character.  It can also assassinate any cult members that the pcs have captured to prevent them from giving evidence to the authorities.
 
 Some inspiration might be taken from some of the mechanics for the intellect devourer.
 
