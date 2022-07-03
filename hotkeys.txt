@@ -1,0 +1,43 @@
+Ctrl-o open quick switcher
+Ctrl-p open command palette
+Ctrl-n create new note
+Ctrl-shift-n create note in new pane
+Alt-m move file to another folder
+Ctrl-e toggle edit / read
+
+Ctrl-shift-, fold all headings and lists
+Ctrl-shift-. unfold all headings and lists
+Ctrl-3 toggle fold on current line
+Ctrl-enter toggle checkbox status
+
+Alt-e insert template into current file
+Alt-r replace templates in current file
+
+F2 edit file title
+Alt-j move a line down
+Alt-k move a line up
+
+Ctrl-alt-j navigate back (like in a browswer)
+Ctrl-alt-k navigate forward (like in a browswer)
+Ctrl-shift-k focus on pane above
+Ctrl-shift-j focus on pane below
+Ctrl-shift-h focus on pane on the left
+Ctrl-shift-l focus on pane on the right
+
+Ctrl-d delete paragraph
+Ctrl-alt-e open emoji picker (for concentration tick)
+Alt-enter followlink under cursor
+Ctrl-g open graph view (see which files are linked to which)
+Ctrl-k insert markdown link
+F1 open help
+Ctrl-alt-enter open link under cursor in new pane
+Ctrl-w close active pane
+Ctrl-, open settings
+Ctrl-s save current file
+Ctrl-h search & replace in current file
+Ctrl-f search current file
+Ctrl-shift-f search in all files
+Ctrl-b toggle bold
+Ctrl-/ toggle comment
+Ctrl-i toggle italics
+Ctrl-shift-t undo close pane

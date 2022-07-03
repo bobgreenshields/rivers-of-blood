@@ -1,0 +1,15 @@
+- Uncover a chaos cult worshipping Khorne, the chaos god of blood
+- The cult is employing various other groups to provide sentient humanoids for sacrifice
+	- Kobolds plundering the roads
+	- Skaven in the sewers of [[Fallcrest]]
+	- Darklings on the streets of [[Fallcrest]]
+- Several key figures in [[Fallcrest]] and it's locality are cult members
+- They are preparing to summon a demon and so are stockpiling sacrifices
+- There is a small temple in the sewers of [[Fallcrest]]
+- The main temple is outside the city in a dungeon / caves
+	- maintained by Duegar
+## Nodes
+- The [[Pure Alchemy | alchemist's house]]
+- [[Kobold Hall]]
+- The [[Sewer Temple]]
+- The [[Temple of Tyr]]

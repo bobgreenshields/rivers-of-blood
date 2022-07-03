@@ -1,0 +1,38 @@
+- [ ] Gibbering mouther
+- [ ] Manticore
+- [ ] [[Heart Crab swarm]]
+- [ ] [[Blood Demon]]
+- [ ] Grell
+- [ ] Drakes (accompanying other creatures?)
+- [ ] Barghest
+- [ ] Basilisk
+- [ ] Bearded Devil
+- [ ] Gnolls
+- [ ] Carrion crawler
+- [ ] Gelationous cube & other jellies
+- [ ] Psychic Gray Ooze
+- [ ] Cockatrice
+- [ ] Darkling as assassins
+- [ ] Displacer beast
+- [ ] Duegar acolytes at Khorne shrine
+- [ ] Ettercap plus giant spiders
+- [ ] Fire snake
+- [ ] Gas spore
+- [ ] Ghoul
+- [ ] Ghast
+- [ ] Mimic
+- [ ] Giant scorpion
+- [ ] Skaven
+- [ ] Hook horror
+- [ ] Lizardfolk
+- [ ] Maw demon
+- [ ] Meenlock
+- [ ] Minotaur skeleton
+- [ ] Rust monster ?!?
+- [ ] Shadow
+- [ ] Skulk
+- [ ] Spined Devil
+- [ ] Swarm of Hoard Scarabs
+- [ ] Sword Wraith
+- [ ] Thri-kreen
+- [ ] Wight
