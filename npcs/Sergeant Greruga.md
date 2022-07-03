@@ -1,13 +1,13 @@
 ---
-aliases:
-name: Vlosvar Greruga
-role: Guard captain
+aliases: Vlosvar Greruga
+name: Sergeant Greruga
+role: Guard sergeant
 location: fc
 tags: npc
 spell_code:
 ---
 
-Head of the guard in lower [[Fallcrest]] and chaos cultist
+Head of the guard in lower [[Fallcrest]] and chaos cultist and is in charge of [[Fallcrest#King’s Gate 25]]
 
 - male human
 - efficient
