@@ -1,8 +1,9 @@
 ---
-aliases:
+aliases: 
 name: <% tp.file.title %>
-location:
+role: 
+location: 
 tags: npc
-spell_code:
+spell_code: 
 ---
 
