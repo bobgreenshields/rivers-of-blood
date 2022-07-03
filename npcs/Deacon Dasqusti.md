@@ -16,6 +16,8 @@ Assistant to [[Bishop Taryamre]] and chaos cultist
 - makes sure that [[Bishop Taryamre]] does not suspect that the cult exists
 - travels widely amongst the surrounding farms
 - which allows contact with the Kobolds
+- he travels with several of the guard who are also cultists
+- sometimes with [[Vlosvar Greruga]] and is known to he his friend
 
 #### Knows
 - where the [[Sewer Temple]] is
