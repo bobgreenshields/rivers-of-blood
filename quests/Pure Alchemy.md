@@ -19,5 +19,6 @@ The challenge for the pcs will be
 - come away with a few [[Potion of Heroism]]
 - discover that the alchemist is a cultist
 - get evidence of other cultists
+- get a clue that the sacrificial tools are made locally by the silversmith
 
 If the party does significant damage to the town [[The Cudgel]] will suggest that the party finds a good reason to leave town for a while to let things cool down.  A publicly know quest would be a good idea.
