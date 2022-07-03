@@ -1,7 +1,8 @@
 ---
 aliases:
 name: The Cudgel
-location: fallcrest
+role: Crime master
+location: fc
 tags: npc
 spell_code:
 ---

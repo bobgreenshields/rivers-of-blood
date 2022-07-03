@@ -1,7 +1,8 @@
 ---
 aliases:
 name: Namhazuu
-location:
+role: Bodyguard and thug
+location: fc
 tags: npc
 spell_code:
 ---

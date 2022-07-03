@@ -1,7 +1,8 @@
 ---
 aliases:
 name: Cuthroats
-location: fallcrest
+role: Crime gang
+location: fc
 tags: npc
 spell_code:
 ---
