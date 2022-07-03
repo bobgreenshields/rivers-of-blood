@@ -11,7 +11,7 @@ Kobolds have taken over the ruined manor house and are using it as a base to lau
 - the swords can be identified by their motif of [[Fallcrest]]
 
 #### Knows
-- [[Vlosvar Greruga]] from his visits
+- [[Sergeant Greruga]] from his visits
 - have met 2 other of the guard with him
 - Duergar have come to pick up the hostages
 #### Does not know
