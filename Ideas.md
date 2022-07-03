@@ -5,7 +5,7 @@
 	- Darklings on the streets of [[Fallcrest]]
 - Several key figures in [[Fallcrest]] and it's locality are cult members
 - They are preparing to summon a demon and so are stockpiling sacrifices
-- There is a small temple in the sewers of [[Fallcrest]]
+- There is a small temple in the [[Catacomb Temple | catacombs]]
 - The main temple is outside the city in a dungeon / caves
 	- maintained by Duegar
 ## Nodes
@@ -15,3 +15,5 @@
 - The [[Catacomb Temple]]
 - The [[Temple of Tyr]]
 - The Silversmith
+- A farm that functions as a staging post for sacrifice traffic
+- [[Manticore]]
