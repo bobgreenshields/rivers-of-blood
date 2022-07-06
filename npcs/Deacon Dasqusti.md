@@ -3,7 +3,7 @@ aliases: Abolo Dasqusti
 name: Deacon Dasqusti
 role: Priest of Tyr
 location: [fc, tt]
-tags: npc
+tags: [npc, cult]
 spell_code:
 ---
 

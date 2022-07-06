@@ -3,7 +3,7 @@ aliases: Vlosvar Greruga
 name: Sergeant Greruga
 role: Guard sergeant
 location: fc
-tags: npc
+tags: [npc, cult]
 spell_code:
 ---
 

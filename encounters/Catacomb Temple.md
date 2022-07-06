@@ -2,7 +2,7 @@
 aliases:
 location:
 loc_tag: ct
-tags: [encounter, loc]
+tags: [encounter, loc, cult]
 ---
 
 Hidden away in the depths of the catacombs is the cult's temple.
