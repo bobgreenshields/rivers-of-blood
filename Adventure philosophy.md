@@ -27,3 +27,9 @@
 	- clues at each node point to several other nodes
 	- e.g. [[Pure Alchemy]] links to at least two other nodes
 - Have several npcs who can provide the pcs with local information, lore etc
+
+> [!FAQ]- Gods
+> I was going to go with the D&D  pantheon for this, only because it is already fully documented, but am very happy to go  with any others
+
+> [!FAQ]- Chaos Gods
+> Depending on how you feel about it I would quite like to inject the Chaos Gods into this setting
