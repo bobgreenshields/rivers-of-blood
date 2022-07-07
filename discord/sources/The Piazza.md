@@ -1,0 +1,1 @@
+[Nentir Vale](https://www.thepiazza.org.uk/bb/viewtopic.php?t=15210) a description of all the locations

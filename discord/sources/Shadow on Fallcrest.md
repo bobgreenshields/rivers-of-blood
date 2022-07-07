@@ -1,0 +1,5 @@
+- [Background](https://the-shadow-on-fallcrest.obsidianportal.com/)
+- [Nentir Vale](https://the-shadow-on-fallcrest.obsidianportal.com/wikis/nentir-vale)
+- [Fallcrest](https://the-shadow-on-fallcrest.obsidianportal.com/wikis/fallcrest)
+- [Nerath Empire](https://the-shadow-on-fallcrest.obsidianportal.com/campaign/the-shadow-on-fallcrest/wikis/nerath-empire)
+- [Fall of the Nerath Empire](https://the-shadow-on-fallcrest.obsidianportal.com/campaign/the-shadow-on-fallcrest/wikis/fall-of-the-nerath-empire)
