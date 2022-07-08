@@ -2,6 +2,9 @@
 - [ ] Manticore
 - [ ] [[Heart Crab swarm]]
 - [ ] [[Blood Demon]]
+- [ ] [[Skaven Units | Skaven]] (Rat men from Warhammer)
+- [ ] Stirges
+- [ ] Clockwork Abomination (Tome of Beasts)
 - [ ] Grell
 - [ ] Drakes (accompanying other creatures?)
 - [ ] Barghest
@@ -22,7 +25,6 @@
 - [ ] Ghast
 - [ ] Mimic
 - [ ] Giant scorpion
-- [ ] Skaven
 - [ ] Hook horror
 - [ ] Lizardfolk
 - [ ] Maw demon
