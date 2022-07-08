@@ -8,6 +8,19 @@
 - There is a small temple in the [[Catacomb Temple | catacombs]]
 - The main temple is outside the city in a dungeon / caves
 	- maintained by Duegar
+- Constructs occupying a cave with a large stirge nest
+	- needs a hook
+	- constructs are iron spiders
+	- they can be foreshadowed
+	- they are not usually aggressive
+	- perhaps they collect magic items
+	- and they've taken one the party needs
+	- constructs are easy to fight but
+	- stirges spawn every round
+	- it takes time to wrestle the constructs
+	- and hunt for magic items
+	- of which there should be plenty
+	- to tempt the pcs to stick around
 ## Nodes
 - The [[Pure Alchemy | alchemist's house]]
 	- The Silversmith
