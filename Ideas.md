@@ -26,7 +26,22 @@
 	- The Silversmith
 - [[Kobold Hall]]
 - The [[Catacomb Temple]]
+	- has evidence linking to the mine
 - The [[Temple of Tyr]]
+	- links to the farm
+	- links to the mine
 - The Silversmith
+	- has evidence linking to the mine
+	- links to the [[Temple of Tyr]]
 - A farm that functions as a staging post for sacrifice traffic
+	- links to the mine
 - [[Manticore]]
+	- links to the farm
+- The mine at Hadley's Hollow
+	- location of main chaos temple
+	- miners accidentally came across warpstone
+	- triggered the conversion of several miners to chaos
+	- [[Deacon Dasqusti]] visited the mine and was converted
+	- the miners are now all converts, dead or ready to be sacrificed
+	- the warpstone attracted the attention of Skaven
+	- the Skaven provide services in return for warpstone
