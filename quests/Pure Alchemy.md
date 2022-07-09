@@ -1,19 +1,26 @@
 [[The Cudgel]]'s main rival [[Calthar]] has blackmailed an alchemist to brew [[Potion of Heroism]] for him.
 
+[[The Cudgel]] wants to sabotage the production to damage [[Calthar]]'s reputation and finances.  [[The Cudgel]] does not want the action to be traced back to him and so cannot use any of his own personnel.  He's planning to make sure that him and his gang are highly visible the evening that the pcs act.
+
 [[Calthar]] has pre-sold his first batch around [[Fallcrest]] and production is beginning.
 
-[[The Cudgel]] wants to sabotage the production to damage [[Calthar]]'s reputation and finances.
+### Location
 
-The potions are being brewed in a rickety four storey house guarded by the [[Cuthroats]] both outside and in.  The location is a closely guarded secret but [[The Cudgel]] has a mole in the [[Cuthroats]] who has given him the information.   [[The Cudgel]] does not want the action to be traced back to him and so cannot use any of his own personnel.
+The potions are being brewed in a rickety four storey house guarded by the [[Cuthroats]] both outside and in.  The location is a closely guarded secret but [[The Cudgel]] has a mole in the [[Cuthroats]] who has given him the information.
+
+The house is in the upper part of [[Fallcrest]] and is located in an area with a rudimentary sewer system.  There are occasional grills and covers in the streets that lead through the sewers to the bottom of the house 
+
+### Complications
 
 What [[The Cudgel]] does not know is that the reagents are not only highly volatile and flammable but when breathed in can create a feeling of euphoric invulnerability.  It will be all to easy for the distillery to go up in a huge ball of flame taking the entire house down with it.
 
 If the party watch the house they will note that the [[Cuthroats]] guards that go into the house each carry a small cloth sack.  They contain a long beaked plague mask to protect them from the fumes.
 
-Unbeknownst to [[Calthar]] the alchemist is member of the chaos cult.  He has a secret shrine and letters that incriminate other members of the cult.
+Unbeknownst to [[Calthar]] the alchemist is member of the chaos cult.  He has a secret shrine and letters that incriminate other members of the cult.  The shrine is located in a secret cellar beneath the house that leads to the sewers.
 
-The challenge for the pcs will be
-- to disable the production
+### Challenges
+
+- disable the production
 - without destroying the entire house
 - setting fire to the town
 - come away with a few [[Potion of Heroism]]
