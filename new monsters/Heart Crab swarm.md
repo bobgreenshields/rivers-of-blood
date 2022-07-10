@@ -6,7 +6,7 @@ The heart grows legs, eyes on stalks, teeth and several tentacle like probocises
 
 The heart crabs swarm into groups of 12-15 scuttling around in the shadows that surround the shrine.  They will attack any interlopers who are not there to worship Khorne.
 
-The swarms are not intelligent per se but possess a demonic cunning prefering to follow their victims and wait until they are occupied with something else (especially combat).
+The swarms are not intelligent per se but possess a demonic cunning prefering to follow their victims and wait until they are occupied with something else (especially combat).  Prior to attacking they can be quite stealthy, hiding in small crevices, only aware of their prescence due to quick glimpses and a scuttling sound.
 
 On a successful attack 1d4 hearts will climb over their adversary and tear at them with their teeth for 2 pts of damage each.  They will then insert their proboscis and the heart will begin to pump blood out of their victim through the open aorta and arteries onto the ground causing 2pts of damage per heart every round after the initial attack.
 
