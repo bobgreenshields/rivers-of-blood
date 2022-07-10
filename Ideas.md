@@ -21,6 +21,20 @@
 	- and hunt for magic items
 	- of which there should be plenty
 	- to tempt the pcs to stick around
+
+## Rumours
+Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few that are meaningless.
+- an uptick in violence and fighting
+	- more resulting in blood being split
+	- bloody gang fights
+- giant rats seen down by the lower docks
+	- pipe induced hallucinations or were some of them on two feet?
+- One of [[Sergeant Greruga]]'s guard has descended into drunkeness
+	- slumped on the street with a bottle
+	- asking passersby if they can hear the voices too
+- One of the gangs has a big deal going down
+- The barge from the mine is late
+	- and the last one was full of low quality ore
 ## Nodes
 - The [[Pure Alchemy | alchemist's house]]
 	- The Silversmith
