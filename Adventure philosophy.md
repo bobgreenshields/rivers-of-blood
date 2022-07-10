@@ -1,5 +1,9 @@
 ![[nentir-vale.png]]
 
+[Rivers of Blood Player FAQ](https://dynamic-trifle-5c52ff.netlify.app/) website
+
+I've shared a Google Drive folder with you called rivers-of-blood-assets which is where I'm storing potentially useful maps and images etc.
+
 - Base the adventure from a single town
 - Have a half dozen important npcs in the town or nearby
 - Have a main plot... *(e.g. cultists seeking to summon a demon of Orcus)*
