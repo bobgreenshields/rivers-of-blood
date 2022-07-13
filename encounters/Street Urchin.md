@@ -28,7 +28,9 @@ Really simple encounter with a homeless child on the street
 - the party can offer to pay
 	- it's 10 sp to the baker (that's a lot for a loaf of bread)
 	- and a 10sp donation to Tyr
-- if not the kid loses a hand - is that too brutal?
+- [[Bishop Taryamre]] is all for chopping off the hand
+- but [[Deacon Dasqusti]] negotiates her down to a finger or two
+- if not the kid loses a finger -  hand is that too brutal
 - [[Bishop Taryamre]] then appears and approves of [[Deacon Dasqusti]]'s judgement
 
 ### Achieves
