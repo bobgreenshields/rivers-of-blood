@@ -8,6 +8,7 @@ Really simple encounter with a homeless child on the street
 
 > [!Question]- How do you feel about Tieflings?
 > - I've not been sure about them but I'm ready to give it a try.  The urchin could be a Tiefling but not if there is one in the party.
+> - It looks like we will have more than one Tiefling in the party. Originally I didn't want the urchin to be one under these circumstances but now I'm not so sure.  What do you think? 
 
 ### Events
 - urchin approaches pcs to help (for money of course)
