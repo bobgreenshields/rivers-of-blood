@@ -1,4 +1,14 @@
 - Uncover a chaos cult worshipping Khorne, the chaos god of blood
+- A group of disaffected merhants are trying to influence / overthrow the lord
+	- they want more focus on trade
+	- the rebuilding of the lower city
+	- repair lower city defences
+	- reduce trade taxes unless revenues reinvested in the city
+	- other often reasonable demands
+- Several members have joined the cult to gain the power to achieve their aims
+- They are now in deeper than they wanted to be and
+- A couple have been fully seduced by the power of the cult and are committing reprehensible acts
+- If discovered the lord will accuse the whole political group of heresy and purge the lot of them 
 - The cult is employing various other groups to provide sentient humanoids for sacrifice
 	- Kobolds plundering the roads
 	- Skaven in the sewers of [[Fallcrest]]
