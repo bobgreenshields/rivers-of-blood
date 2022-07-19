@@ -13,7 +13,6 @@ FLATTEN location
 WHERE location = "fc"
 ```
 
-### Key loactions
 ### Key Locations
 
 Fallcrest is divided into two districts by a steep bluff that cuts across the town. The area north of the bluff is known locally as Hightown. This district survived the city’s fall in relatively good shape, and it was the first area resettled. To the south of the bluff lies Lowtown, which tends to be newer and poorer. In the event of a serious threat, people retreat up to Hightown—the bluff and the town walls completely ring this part of Fallcrest, making it highly defensible.
