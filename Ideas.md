@@ -70,3 +70,6 @@ Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few
 	- the miners are now all converts, dead or ready to be sacrificed
 	- the warpstone attracted the attention of Skaven
 	- the Skaven provide services in return for warpstone
+
+## Social encounters
+	-
