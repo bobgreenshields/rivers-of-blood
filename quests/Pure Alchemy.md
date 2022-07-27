@@ -10,6 +10,10 @@ The potions are being brewed in a rickety four storey house guarded by the [[Cut
 
 The house is in the upper part of [[Fallcrest]] and is located in an area with a rudimentary sewer system.  There are occasional grills and covers in the streets that lead through the sewers to the bottom of the house 
 
+Across the street from the alchemist's house is an old boarded warehouse which is connected to the alchemist's residence via an underground tunnel which is part of the sewers.
+
+And the warehouse contains a significant number of Skaven guarding and working with the alchemist.
+
 ### Complications
 
 What [[The Cudgel]] does not know is that the reagents are not only highly volatile and flammable but when breathed in can create a feeling of euphoric invulnerability.  It will be all to easy for the distillery to go up in a huge ball of flame taking the entire house down with it.
