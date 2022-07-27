@@ -1,0 +1,3 @@
+- Silversmith engages party to recover small important item on the person of one of the people travelling with the salt wagon
+- The person with the item was taken by the [[Kill the manticore | manticore]]
+- This should lead to the salt wagon and loop back to the silversmith via the alchemist
