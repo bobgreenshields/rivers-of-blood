@@ -18,19 +18,21 @@
 - There is a small temple in the [[Catacomb Temple | catacombs]]
 - The main temple is outside the city in a dungeon / caves
 	- maintained by Duegar
-- Constructs occupying a cave with a large stirge nest
-	- needs a hook
-	- constructs are iron spiders
-	- they can be foreshadowed
-	- they are not usually aggressive
-	- perhaps they collect magic items
-	- and they've taken one the party needs
-	- constructs are easy to fight but
-	- stirges spawn every round
-	- it takes time to wrestle the constructs
-	- and hunt for magic items
-	- of which there should be plenty
-	- to tempt the pcs to stick around
+- Sewers
+	- Allows access to lower areas of [[Pure Alchemy | Alchemist's]] house
+	- When they are going to the house through the sewers they discover the possible access to the catacombs
+	- Reverse wells in open areas of Hightown
+	- Large houses in Hightown have their own sewer arrangements
+	- Skaven in sewers
+	- With a stirge nest
+		- access to the catacombs through stirge infected area
+		- make it via a secret annex to the catacombs that is the burial crypt for a historic family
+		- that interred their family members with their most prized possesions - magic items inc melee weapons
+	- And possibly a mini dungeon
+- Start at temple with a quest from the Bishop
+	- and meet the deacon as part of the process
+	- get sent to waystation
+- Magic weapon with 3? runes on that can be triggered to give extra elemental damage
 
 ## Rumours
 Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few that are meaningless.
