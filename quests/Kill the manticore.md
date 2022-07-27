@@ -1,0 +1,3 @@
+- manticores took the drivers of the salt wagon
+- get key clue from bodies
+- manticore will have a magic melee weapon
