@@ -1,2 +1,3 @@
 - checkout magical focii
 - what happens if they are stolen?
+- check out Serbian names for the baddies
