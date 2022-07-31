@@ -1,3 +1,7 @@
 - Silversmith engages party to recover small important item on the person of one of the people travelling with the salt wagon
+- The item is a family heirloom and it's a +1 magic weapon of just the sort a pc would like
+	- give it another minor once a day power
+	- once retrieved do they return it to the silversmith
+	- or keep it
 - The person with the item was taken by the [[Kill the manticore | manticore]]
 - This should lead to the salt wagon and loop back to the silversmith via the alchemist
