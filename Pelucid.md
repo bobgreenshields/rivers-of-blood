@@ -1,0 +1,9 @@
+- small clear crystals
+- smoked or ingested (better when smoked 😀)
+- provides a state relaxation and mild euphoria
+- sometimes used as a means of payment
+- popular amongst many classes
+	- manual workers after a hard day
+	- intelligencia to aid deep thought
+- sometimes people get strongly addicted and drop out
+	- think opium dens
