@@ -5,7 +5,7 @@
 - [x] Vlosvar Greruga
 - [ ] Vartil Meldume
 - [ ] Gakrern Tallore
-- [ ] Rarim Chuv
+- [x] Rarim Chuv
 - [ ] Sirloosk Nerudo
 - [x] Abolo Dasqusti
 - [ ] Midrien Unzanza
