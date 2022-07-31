@@ -1,0 +1,2 @@
+- checkout magical focii
+- what happens if they are stolen?
