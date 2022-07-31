@@ -33,6 +33,7 @@
 	- and meet the deacon as part of the process
 	- get sent to waystation
 - Magic weapon with 3? runes on that can be triggered to give extra elemental damage
+- Have an information source in [[Fallcrest]] that gets killed by the [[Blood Demon]] using a body that the pcs know to lead into [[Sequestered victim]]
 
 ## Rumours
 Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few that are meaningless.
