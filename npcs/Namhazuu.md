@@ -7,7 +7,7 @@ tags: npc
 spell_code:
 ---
 
-An ageing, alchoholic Minotaur.  Whilst way beyond his prime and mostly washed up he is still quite a brute and a very effective bodyguard for [[The Cudgel]].
+An ageing, alchoholic [[Minotaur]].  Whilst way beyond his prime and mostly washed up he is still quite a brute and a very effective bodyguard for [[The Cudgel]].
 
 - Prone to mood swings
 - Not chatty
