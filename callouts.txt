@@ -1,0 +1,16 @@
+note
+abstract, summary, tldr
+info, todo
+tip, hint, important
+success, check, done
+question, help, faq
+warning, caution, attention
+failure, fail, missing
+danger, error
+bug
+example
+quote, cite
+
+> [!FAQ]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden until it is expanded.
+Titles and body support markdown
