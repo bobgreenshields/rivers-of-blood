@@ -15,17 +15,20 @@
 	- Darklings on the streets of [[Fallcrest]]
 - Several key figures in [[Fallcrest]] and it's locality are cult members
 - They are preparing to summon a demon and so are stockpiling sacrifices
-- There is a small temple in the [[Catacomb Temple | catacombs]]
-- The main temple is outside the city in a dungeon / caves
-	- maintained by Duegar
+- The cultists regularly enter a family crypt in the [[Catacomb Temple | catacombs]]
+	- that houses a portal leading to the main temple
+	- at [[Hadley's Hollow]]
+- The main temple is outside the city in a small community [[Hadley's Hollow]]
+	- who have now been converted to the cult
+	- or repurposed as sacrificial victims
 - Sewers
 	- Allows access to lower areas of [[Pure Alchemy | Alchemist's]] house
 	- When they are going to the house through the sewers they discover the possible access to the catacombs
 	- Reverse wells in open areas of Hightown
 	- Large houses in Hightown have their own sewer arrangements
 	- Skaven in sewers
-	- With a stirge nest
-		- access to the catacombs through stirge infected area
+	- With a stirge nest (moving the Stirges to Maticore temple) now [[Burial Chamber]]
+		- access to the catacombs through [[Burial Chamber]]
 		- make it via a secret annex to the catacombs that is the burial crypt for a historic family
 		- that interred their family members with their most prized possesions - magic items inc melee weapons
 	- And possibly a mini dungeon
