@@ -3,6 +3,6 @@ aliases:
 name: <% tp.file.title %>
 role: 
 location: []
-tags: npc
+tags: [npc]
 spell_code: 
 ---
