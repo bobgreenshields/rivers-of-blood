@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: Wilda
 name: Wilda Warmheart
-role: 
+role: Owner of Warmheart Waystation
 location: ww
 tags: npc
 spell_code: 
 ---
 
-Wilda (Ardithdochter) runs the [[Warmheart Waystation]] a small fort built around an inn, livery and small collection of buildings.
+Wilda runs the [[Warmheart Waystation]] a small fort built around an inn, livery and small collection of buildings.
 
 
 

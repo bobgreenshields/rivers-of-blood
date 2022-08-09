@@ -2,7 +2,7 @@
 aliases: Sara Taryamre
 name: Bishop Taryamre
 role: Priest of Tyr
-location: [fc, tt]
+location: [fc, fctt]
 tags: npc
 spell_code:
 ---
