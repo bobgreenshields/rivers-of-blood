@@ -2,8 +2,7 @@
 aliases: 
 name: <% tp.file.title %>
 role: 
-location: 
+location: []
 tags: npc
 spell_code: 
 ---
-
