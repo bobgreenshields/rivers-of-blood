@@ -6,7 +6,7 @@
 
 ### Location
 
-The potions are being brewed in a rickety four storey house guarded by the [[Cuthroats]] both outside and in.  The location is a closely guarded secret but [[The Cudgel]] has a mole in the [[Cuthroats]] who has given him the information.
+The potions are being brewed in a rickety four storey house guarded by the [[River Rats]] both outside and in.  The location is a closely guarded secret but [[The Cudgel]] has a mole in the [[River Rats]] who has given him the information.
 
 The house is in the upper part of [[Fallcrest]] and is located in an area with a rudimentary sewer system.  There are occasional grills and covers in the streets that lead through the sewers to the bottom of the house 
 
@@ -18,7 +18,7 @@ And the warehouse contains a significant number of Skaven guarding and working w
 
 What [[The Cudgel]] does not know is that the reagents are not only highly volatile and flammable but when breathed in can create a feeling of euphoric invulnerability.  It will be all to easy for the distillery to go up in a huge ball of flame taking the entire house down with it.
 
-If the party watch the house they will note that the [[Cuthroats]] guards that go into the house each carry a small cloth sack.  They contain a long beaked plague mask to protect them from the fumes.
+If the party watch the house they will note that the [[River Rats]] guards that go into the house each carry a small cloth sack.  They contain a long beaked plague mask to protect them from the fumes.
 
 Unbeknownst to [[Calthar]] the alchemist is member of the chaos cult.  He has a secret shrine and letters that incriminate other members of the cult.  The shrine is located in a secret cellar beneath the house that leads to the sewers.
 
