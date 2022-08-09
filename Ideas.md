@@ -66,7 +66,7 @@ Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few
 	- links to the [[Temple of Tyr]]
 - A farm that functions as a staging post for sacrifice traffic
 	- links to the mine
-- [[Manticore]]
+- [[Manticore den]]
 	- links to the farm
 - The mine at Hadley's Hollow
 	- location of main chaos temple
