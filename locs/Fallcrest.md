@@ -11,6 +11,7 @@ A fortified town in [Nentir Vale](nentir-vale.png) where the King's Road crosses
 LIST role FROM #npc and -"templates"
 FLATTEN location
 WHERE location = "fc"
+SORT name
 ```
 
 ### Inns
@@ -37,6 +38,13 @@ WHERE parent_loc = "fc"
 SORT map_code
 ```
 
+### Locations
+```dataview
+LIST map_code FROM #loc and -"templates"
+FLATTEN parent_loc
+WHERE parent_loc = "fc"
+SORT map_code
+```
 
 ### Key Locations
 
@@ -76,7 +84,7 @@ The Halfmoon family is a large, far-flung clan of halflings who keep small tradi
 
 #### Moonstone Keep (8)
 
-The seat of Lord Warden Faren Markelhay, Moonstone Keep is an old castle that sits atop a steep-sided hill overlooking the town. The outer bailey includes barracks housing up to sixty Fallcrest guards. At any given time about twenty or so are off-duty. Other buildings in the courtyard include a stable, an armory, a chapel, a smithy, and several storehouses. The keep is the large D-shaped building at the north end of the castle. Faren Markelhay is a balding, middle-aged human with a keen mind and a dry wit. He is a busy man and sees to local matters personally, so adventurers calling on him are likely to wait a long time for a short interview. However, he is eager for news of other towns in the Vale (and farther lands as well) and never turns away someone who brings him news or waits to see him.
+The seat of Lord Warden [[Faren Markelhay]], Moonstone Keep is an old castle that sits atop a steep-sided hill overlooking the town. The outer bailey includes barracks housing up to sixty Fallcrest guards. At any given time about twenty or so are off-duty. Other buildings in the courtyard include a stable, an armory, a chapel, a smithy, and several storehouses. The keep is the large D-shaped building at the north end of the castle.
 
 #### The Tombwood (9)
 
