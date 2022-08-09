@@ -1,10 +1,10 @@
 - [ ] Gibbering mouther
-- [ ] Manticore
+- [x] Manticore
 - [ ] [[Heart Crab swarm]]
 - [ ] [[Blood Demon]]
 - [ ] [[Skaven Units | Skaven]] (Rat men from Warhammer)
-- [ ] Stirges
-- [ ] Clockwork Abomination (Tome of Beasts)
+- [x] Stirges
+- [x] Clockwork Abomination (Tome of Beasts)
 - [ ] Grell
 - [ ] Drakes (accompanying other creatures?)
 - [ ] Barghest
@@ -21,7 +21,7 @@
 - [ ] Ettercap plus giant spiders
 - [ ] Fire snake
 - [ ] Gas spore
-- [ ] Ghoul
+- [x] Ghoul
 - [ ] Ghast
 - [ ] Mimic
 - [ ] Giant scorpion
@@ -37,4 +37,4 @@
 - [ ] Swarm of Hoard Scarabs
 - [ ] Sword Wraith
 - [ ] Thri-kreen
-- [ ] Wight
+- [x] Wight
