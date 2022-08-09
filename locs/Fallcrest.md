@@ -13,6 +13,31 @@ FLATTEN location
 WHERE location = "fc"
 ```
 
+### Inns
+```dataview
+LIST map_code FROM #inn and -"templates"
+FLATTEN parent_loc
+WHERE parent_loc = "fc"
+SORT map_code
+```
+
+### Merchants
+```dataview
+LIST map_code FROM #merch and -"templates"
+FLATTEN parent_loc
+WHERE parent_loc = "fc"
+SORT map_code
+```
+
+### Temples
+```dataview
+LIST map_code FROM #temple and -"templates"
+FLATTEN parent_loc
+WHERE parent_loc = "fc"
+SORT map_code
+```
+
+
 ### Key Locations
 
 Fallcrest is divided into two districts by a steep bluff that cuts across the town. The area north of the bluff is known locally as Hightown. This district survived the city’s fall in relatively good shape, and it was the first area resettled. To the south of the bluff lies Lowtown, which tends to be newer and poorer. In the event of a serious threat, people retreat up to Hightown—the bluff and the town walls completely ring this part of Fallcrest, making it highly defensible.
