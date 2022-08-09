@@ -1,7 +1,7 @@
 ---
 aliases:
 location:
-loc_tag: ct
+loc_tag: fccc
 tags: [encounter, loc, cult]
 ---
 
