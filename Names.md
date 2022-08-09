@@ -4,7 +4,7 @@
 - [ ] Glam Glevosk
 - [x] Vlosvar Greruga
 - [ ] Vartil Meldume
-- [ ] Gakrern Tallore
+- [x] Gakrern Tallore
 - [x] Rarim Chuv
 - [ ] Sirloosk Nerudo
 - [x] Abolo Dasqusti
@@ -79,7 +79,7 @@
 - [ ] Kamos
 - [ ] Embira
 - [ ] Sirvir
-- [ ] Malerakas
+- [x] Malerakas
 - [ ] Karxik
 #### Female
 - [ ] Yorapunith
