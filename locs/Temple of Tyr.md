@@ -1,11 +1,14 @@
 ---
 name: Temple of Tyr
-loc_code: tt
-tags: loc
+map_code: 30
+parent_loc: fc
+loc_code: fctt
+tags: [loc, cult]
 ---
+
 ## NPCs
 ```dataview
 LIST role FROM #npc and -"templates"
 FLATTEN location
-WHERE location = "tt"
+WHERE location = "fctt"
 ```
