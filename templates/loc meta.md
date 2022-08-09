@@ -1,5 +1,7 @@
 ---
 name: <% tp.file.title %>
-loc_code:
-tags: loc
+map_code: 
+parent_loc: 
+loc_code: 
+tags: [loc]
 ---
