@@ -3,10 +3,11 @@ aliases:
 location:
 tags: encounter
 ---
+Maybe throw in a [[Gelatinous Cube]] to maximise the fun 😜
 
 Check out the dpr calcs spreadsheet.
 
-They drop off after 10HP of damage and this seems to be in 3 or less rounds regardless of AC.  Round 1 dpr is about 3 so 3 stirges will inflict about 9 HP on the first round.
+They drop off after 10HP of damage and this seems to be in 3 or less rounds regardless of AC.  Round 1 dpr is about 3 so 3 [[Stirge]]s will inflict about 9 HP on the first round.
 
 At average of 2HP and AC14 they will die fast but not until they have inflicted some damage.
 
