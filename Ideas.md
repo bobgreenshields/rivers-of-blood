@@ -17,8 +17,8 @@
 - They are preparing to summon a demon and so are stockpiling sacrifices
 - The cultists regularly enter a family crypt in the [[Catacomb Temple | catacombs]]
 	- that houses a portal leading to the main temple
-	- at [[Hadley's Hollow]]
-- The main temple is outside the city in a small community [[Hadley's Hollow]]
+	- at [[Hadley's Haven]]
+- The main temple is outside the city in a small community [[Hadley's Haven]]
 	- who have now been converted to the cult
 	- or repurposed as sacrificial victims
 - Sewers
@@ -37,6 +37,15 @@
 	- get sent to waystation
 - Magic weapon with 3? runes on that can be triggered to give extra elemental damage
 - Have an information source in [[Fallcrest]] that gets killed by the [[Blood Demon]] using a body that the pcs know to lead into [[Sequestered victim]]
+- Have some kind of token or disc that identifies cult members with Caer scribed on them
+	- any of the sages in town will be able to tell them it means Sanctuary or Safe harbour
+- Haven is a link to Sanctuary found in a letter
+- Another piece of paper with **leys have** on it which links the cult to [[Hadley's Haven]]
+- Both [[Malerakas Xandax|silversmith]] and [[Gakrern Tallore|alchemist]] 
+	- have boots covered in a kind of mud that is different to that of [[Fallcrest]]
+	- have a very dark mud that sages will tell you is found either below ground or in a graveyard
+	- they also find small amounts of a thorny plant attached to the sleeve of one of the cloaks
+	- sages will tell you that it comes from upstream of [[Fallcrest]]
 
 ## Rumours
 Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few that are meaningless.
