@@ -5,7 +5,7 @@ tags: encounter
 ---
 
 - The location where Suzi's master was meeting his contact
-- Only a day or so from [[Hadley's Hollow]]
+- Only a day or so from [[Hadley's Haven]]
 - A fortifed inn on either of the main roads
 - Attacked by a large force of goblinoids
 	- for 3rd lvl make it Hobgoblins leading goblins
