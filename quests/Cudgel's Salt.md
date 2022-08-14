@@ -1,6 +1,12 @@
-- Is it salt or maybe [[Pelucid]]?
+---
+aliases: Manticore Attack
+location:
+tags: encounter
+---
 
-By the side of the road lies the remains of a wagon train.  A half a dozen corpses surround two wagons, one shattered, one overturned.
+By the side of the road lies the remains of a wagon train.  A pair of horse corpses are still attached to one of two wagons, one shattered, one, a large hand cart, overturned.
+
+There is no shortage of human blood but there is no sign of any bodies.
 
 Run a perception check and the pcs will find a strange white powder on the ground next to one of the wagons.  It's salt.  Following the trail (Investigation) leads the pcs to discover hidden compartments under the overturned wagon.  These hold two small barrels of salt, worth several hundred GP.
 
