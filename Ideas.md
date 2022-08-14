@@ -47,6 +47,9 @@
 	- they also find small amounts of a thorny plant attached to the sleeve of one of the cloaks
 	- sages will tell you that it comes from upstream of [[Fallcrest]]
 
+## Resources
+#### Dropbox upload
+https://www.dropbox.com/request/BLmrwGd2HA6SPw5KvRJu
 ## Rumours
 Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few that are meaningless.
 - An uptick in violence and fighting
