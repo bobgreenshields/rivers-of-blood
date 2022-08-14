@@ -2,7 +2,7 @@
 aliases: 
 name: Teldorthan Ironhews
 role: Owner Teldorthans Arms
-location: [fc, fcta]
+location: [fc, fcta, fcbm]
 tags: npc
 spell_code: 
 ---
