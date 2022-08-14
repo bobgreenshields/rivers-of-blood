@@ -1,6 +1,6 @@
 ---
-aliases:
-location:
+aliases: 
+location: Abandoned temple 
 tags: encounter
 ---
 
