@@ -80,7 +80,7 @@
 - [ ] Embira
 - [ ] Sirvir
 - [x] Malerakas
-- [ ] Karxik
+- [x] Karxik
 #### Female
 - [ ] Yorapunith
 - [ ] Nithzes
