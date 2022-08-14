@@ -4,41 +4,43 @@ location: fc
 tags: encounter
 ---
 
-Really simple encounter with a homeless child on the street
-
-> [!Question]- How do you feel about Tieflings?
-> - I've not been sure about them but I'm ready to give it a try.  The urchin could be a Tiefling but not if there is one in the party.
-> - It looks like we will have more than one Tiefling in the party. Originally I didn't want the urchin to be one under these circumstances but now I'm not so sure.  What do you think? 
+This encounter can happen equally well in either Hightown or Lowtown.
 
 ### Events
-- urchin approaches pcs to help (for money of course)
+- [[Karxik]], the urchin, approaches pcs to help (for money of course)
 	- a place to stay
 	- the best traders to buy from
 	- the taverns with the best beer
 	- who to avoid
+	- his sister is very sick
+	- they have no food
 	- etc
-- suddenly zooms off to snatch up a loaf of bread thats fallen off the back a cart
-- after a cry of "Stop thief"
-- someone (town guard?) grabs the kid
-- and the baker comes back 
-- ready to give the kid a beating
+- suddenly zooms off to snatch up a loaf of bread that's fallen off the back of [[Zlatan]]'s hand cart
+- [[Zlatan]] - "Stop you thieving little scum", "Gonna teach you a lesson" etc etc
+- just before [[Zlatan]]'s huge hand grabs him [[Karxik]] shoots off along the street and around a corner
+- 20 seconds later [[Karxik]] appears, held by the scruff of the neck, with [[Sergeant Greruga]]
+- "You must be the most unlucky little villain in the whole of Fallcrest"
+- gives the loaf back to [[Zlatan]]
+- "Don't worry [[Zlatan]] I'll let [[Gakrern Tallore|Master Tallore]] (the alchemist) know that the thief was apprehended and it was none of your fault"
+- [[Karxik]] mouths "Help me" to the party
+- [[Sergeant Greruga|Greruga]] - "You're lucky I'm having such a good day.  How about we let Tyr decide your fate?"
 - if the party steps up for the kid
-- the guard tells them to go to the [[Temple of Tyr]] for judgement
+- [[Sergeant Greruga|Greruga]] will let them go to the [[Temple of Tyr]] with them
 - [[Deacon Dasqusti]] is there
 - resistution could be paid but the kid has no money
-- the party can offer to pay
-	- it's 10 sp to the baker (that's a lot for a loaf of bread)
-	- and a 10sp donation to Tyr
 - [[Bishop Taryamre]] is all for chopping off the hand
-- but [[Deacon Dasqusti]] negotiates her down to a finger or two
-- if not the kid loses a finger -  hand is that too brutal
-- [[Bishop Taryamre]] then appears and approves of [[Deacon Dasqusti]]'s judgement
+- but [[Deacon Dasqusti]] enters.  Negotiates her down to a finger or two - "Your most reverend.  Should we put this child's future on Tyr's scales along with his crime"
+- the party can offer to pay
+	- it's 10 sp to [[Gakrern Tallore|Master Tallore]] (that's a lot for a loaf of bread)
+	- and a 10sp donation to Tyr
+- [[Bishop Taryamre]] - "True, true.  Perhaps there are enough one handed Tieflings on the streets of Fallcrest already"
 
 ### Achieves
 - gain an ally to provide information
 - introduces npcs
-	- town guard who works for [[Sergeant Greruga]]
+	- [[Sergeant Greruga]]
 	- [[Bishop Taryamre]]
 	- [[Deacon Dasqusti]]
+	- [[Zlatan]]
 - [[Temple of Tyr]] is full of custom made silver items (scales etc)
 	- link to silversmith

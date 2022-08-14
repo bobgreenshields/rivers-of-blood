@@ -7,7 +7,7 @@ tags: [npc, cult]
 spell_code:
 ---
 
-Head of the guard in Lowtown (and chaos cultist), he is in charge of [[Fallcrest#King’s Gate 25 | The King's Gate]].
+Head of the guard in Lowtown (and chaos cultist), he is in charge of [[Kings Gate]].
 
 A tall, lanky man who doesn’t say much, answering questions with a grunt or a shake of the head
 
