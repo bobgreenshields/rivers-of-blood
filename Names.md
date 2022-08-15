@@ -23,7 +23,7 @@
 - [ ] Vivamvish Uvzinorko
 - [ ] Tolra Kask
 - [ ] Za Vorgetsk
-- [ ] Yindrevi Ruvravrivzu
+- [x] Yindrevi Ruvravrivzu
 - [x] Sara Taryamre
 - [ ] Rudra Hyelmuvre
 - [ ] Zanepeih Boker
