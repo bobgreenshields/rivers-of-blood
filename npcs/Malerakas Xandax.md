@@ -6,4 +6,4 @@ location: [fc, fcss]
 tags: [npc, cult]
 spell_code: 
 ---
-An early middle aged Tiefling.
+The silversmith, a senior cult member.  An early middle aged Tiefling.
