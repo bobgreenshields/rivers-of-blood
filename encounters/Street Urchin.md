@@ -26,7 +26,7 @@ This encounter can happen equally well in either Hightown or Lowtown.
 - [[Sergeant Greruga|Greruga]] - "You're lucky I'm having such a good day.  How about we let Tyr decide your fate?"
 - if the party steps up for the kid
 - [[Sergeant Greruga|Greruga]] will let them go to the [[Temple of Tyr]] with them
-- [[Deacon Dasqusti]] is there
+- [[Bishop Taryamre]] is there chatting to the [[Malerakas Xandax|silversmith]]
 - resistution could be paid but the kid has no money
 - [[Bishop Taryamre]] is all for chopping off the hand
 - but [[Deacon Dasqusti]] enters.  Negotiates her down to a finger or two - "Your most reverend.  Should we put this child's future on Tyr's scales along with his crime"
@@ -41,6 +41,7 @@ This encounter can happen equally well in either Hightown or Lowtown.
 	- [[Sergeant Greruga]]
 	- [[Bishop Taryamre]]
 	- [[Deacon Dasqusti]]
-	- [[Zlatan]]
+	- the [[Malerakas Xandax|silversmith]] Malerakas Xandax
 - [[Temple of Tyr]] is full of custom made silver items (scales etc)
 	- link to silversmith
+- [[Malerakas Xandax]] decides that they would be a good team to retrieve his sword
