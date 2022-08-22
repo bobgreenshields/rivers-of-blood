@@ -16,6 +16,22 @@
 - [ ] Bhasid Rostani
 - [ ] Mahman Cushei
 - [ ] Ahmum Bhanim
+- [ ] Gustav Hastu
+- [ ] Ryland Runetoe
+- [ ] Brayton Biltram
+- [ ] Tirian Mirthscribe
+- [ ] Thorbert Vikrifk
+- [ ] Hollis Hankhab
+- [x] Malachi Klendathu
+- [ ] Khesen Folundon
+- [ ] Wassilie Estorus
+- [ ] Varkag Jassi
+- [ ] Gilon Gloz
+- [ ] Jah Girnyvutro
+- [ ] Bergen Biltom
+- [ ] Hahlar Muldimzilze
+- [ ] Dandod Meidid
+
 #### Female
 - [ ] Zisho Ragestar
 - [ ] Vefronu Lenskondrib
