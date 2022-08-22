@@ -1,7 +1,7 @@
 ---
 aliases: 
 name: Rarim Chuv
-role: 
+role: Agent of the Warden
 location: ww
 tags: npc
 spell_code: 
