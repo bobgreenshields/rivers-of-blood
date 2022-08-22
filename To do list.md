@@ -1,0 +1,12 @@
+- [ ] spec out some loot
+- [ ] finalise warehouse plan (check shape on map)
+- [ ] waystation scenarios
+- [ ] Ravim Chuck info
+- [ ] Manticore den letter
+- [ ] Alchemists house
+- [ ] Silversmith house
+- [ ] Cultist stats - melee and magic combatants
+- [ ] Skaven stats
+- [ ] Rogue stats??? less important
+- [ ] Townfolk images
+- [ ] 
