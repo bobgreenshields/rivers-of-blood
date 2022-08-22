@@ -15,9 +15,10 @@ tags: encounter
 #### Encounter play ideas
 - The faster they get to the contact the more chance the contact is alive
 - Actually a series of encounters
-	- helping some of the guards and Wilda's niece fight off a big group
+	- helping some of the guards and [[Gwenryl Warmheart]]
 		- cornered by goblinoids atop the wall
-	- saving the contact
+		- and they are going to be killed without assistance
+	- saving the contact or [[Rarim Chuv]]
 - [[Wilda Warmheart]] wants to persue the attackers
 	- to stop them raiding any other farmsteads
 	- rescue any prisoners
@@ -29,12 +30,12 @@ tags: encounter
 		- but they are surprised that there are prisoners in the ruins
 		- and the goblins are going to execute them before they leave camp
 	- mixed in amongst the escaping goblins and hobgoblins are 2 ogres
-	- one of the prisoners has the location of the manticore den
+	- one of the prisoners (Bergen Biltom) has the location of the manticore den
 		- his son led an expedition to clear them out
 		- spoke to survivors and triangulated from the direction the manticore left the attack
 		- using the information from several attacks they pinpointed the den
 		- he didn't come back from the mission
-		- so the old man went out to find him and got captured by the goblins
+		- so the Bergen went out to find him and got captured by the goblins
 	- some of the prisoners may give clues about who is paying for the slaves
 	- [[Wilda Warmheart | Wilda]] offers them the loot in the camp
 	- is this where they get the salt wagon?
