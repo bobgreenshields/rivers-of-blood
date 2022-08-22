@@ -7,7 +7,7 @@ First stab at a structure for the nodes.
 	- and it's coming from the [[Warmheart Waystation | waystation]]
 - The Bishop (prompted by the [[Deacon Dasqusti | Deacon]]) sends them on a mission to [[Warmheart Waystation]]
 	- hoping they will be their when the [[Waystation assault | hobgoblins attack]]
-- Rescue Suzi's mentor
+- Rescue [[Malachi Klendathu]]
 	- recently disappeared
 	- he was a scholar
 	- he had a recent visit from a friend (Rarim Chuv) at the [[Warmheart Waystation | waystation]]

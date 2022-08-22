@@ -50,20 +50,7 @@
 ## Resources
 #### Dropbox upload
 https://www.dropbox.com/request/BLmrwGd2HA6SPw5KvRJu
-## Rumours
-Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few that are meaningless.
-- An uptick in violence and fighting
-	- more resulting in blood being split
-	- bloody gang fights
-- Giant rats seen down by the lower docks
-	- pipe induced hallucinations or were some of them on two feet?
-- One of [[Sergeant Greruga]]'s guard has descended into drunkeness
-	- slumped on the street with a bottle
-	- asking passersby if they can hear the voices too
-- One of the gangs has a big deal going down
-- The barge from the mine is late
-	- and the last one was full of low quality ore
-- Several townsfolk have been kept awake by whispering voices
+## [[Rumours]]
 ## Nodes
 - The [[Pure Alchemy | alchemist's house]]
 	- The Silversmith
@@ -80,7 +67,7 @@ Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few
 	- links to the mine
 - [[Manticore den]]
 	- links to the farm
-- The mine at Hadley's Hollow
+- The mine at [[Hadley's Haven]]
 	- location of main chaos temple
 	- miners accidentally came across warpstone
 	- triggered the conversion of several miners to chaos
