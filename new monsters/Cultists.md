@@ -3,7 +3,7 @@ Cultists are all about drawing as much blood as possible (doing damage) and then
 ### Powers
 - [rage](https://www.dndbeyond.com/classes/barbarian#Rage-51)
 	- advantage str checks and saves
-	- dam bonus to str based attacks
+	- dam bonus to str based attacks (+2)
 	- resistance to B,P & S damage (doesn't really fit so prob won't use this one)
 	- for the barbarian this ends if you don't attack or take dsamage
 	- but I can see cultists continue it by attacking nearby allies 
@@ -21,3 +21,17 @@ Cultists are all about drawing as much blood as possible (doing damage) and then
 	- gives reckless attack
 	- once enemies dead requires cha save to not continue and attack nearest creature
 	- I like this being a cha save.  Whilst it is actually appropriate, it's a less used stat and often a dump stat
+- spirit of Khorne
+	- passes between npcs when they die (like agent Smith)
+	- gives significant advantages
+		- multi attack - yes
+		- risposte - probably not
+		- weapon bursts into demonic flames + 1d6 fire
+	- has an aoe aggro effect
+		- 15ft radius
+		- start of your turn charisma save DC 15
+		- must attack possessed npc on fail with lethal damage
+		- use move action to close
+		- and not move away
+		- on save disadvantage on attacks agst others
+		- but can move out of radius
