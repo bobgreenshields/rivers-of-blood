@@ -15,21 +15,26 @@ tags: encounter
 #### Encounter play ideas
 - The faster they get to the contact the more chance the contact is alive
 - Actually a series of encounters
-	- helping some of the guards fight off a big group
+	- helping some of the guards and Wilda's niece fight off a big group
 		- cornered by goblinoids atop the wall
-	- rescuing a family from the attackers
-	- closing the gates
-	- putting out fires *lame*
 	- saving the contact
 - [[Wilda Warmheart]] wants to persue the attackers
 	- to stop them raiding any other farmsteads
 	- rescue any prisoners
 	- she sends out a  couple of scouts almost right away to tail the Goblins
 	- but it's total termination with extreme prejudice
-	- the party get a particular task
-		- protect prisoners
-		- close off one avenue of escape
+	- the party get a particular task close off one avenue of escape
+		- party get to choose ambush positions
+		- in some old ruins in a rocky defile
+		- but they are surprised that there are prisoners in the ruins
+		- and the goblins are going to execute them before they leave camp
+	- mixed in amongst the escaping goblins and hobgoblins are 2 ogres
+	- one of the prisoners has the location of the manticore den
+		- his son led an expedition to clear them out
+		- spoke to survivors and triangulated from the direction the manticore left the attack
+		- using the information from several attacks they pinpointed the den
+		- he didn't come back from the mission
+		- so the old man went out to find him and got captured by the goblins
 	- some of the prisoners may give clues about who is paying for the slaves
 	- [[Wilda Warmheart | Wilda]] offers them the loot in the camp
-	- is this where they get the salt wagon
-- Do they get more info from contact by braving the battle for longer?
+	- is this where they get the salt wagon?
