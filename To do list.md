@@ -1,12 +1,18 @@
 - [ ] spec out some loot
+	- Blood spear - reduce to zero get 2d6 temp hp
+	- Ring of the ram (fails on d6?) 1d3 charges a day
+	- Seeker dart
+	- Ring protection
+	- +1 staff use charge 2d6 force (fails on d6)
+- [ ] give the martial characters magic weapons - manticores??
 - [ ] finalise warehouse plan (check shape on map)
-- [ ] waystation scenarios
+- [ ] waystation scenarios (2 done, 1 left)
 - [ ] Ravim Chuck info
 - [ ] Manticore den letter
 - [ ] Alchemists house
 - [ ] Silversmith house
-- [ ] Cultist stats - melee and magic combatants
+- [x] Cultist stats - melee and magic combatants
 - [ ] Skaven stats
 - [ ] Rogue stats??? less important
 - [ ] Townfolk images
-- [ ] 
+- [ ] notes from town notice board
