@@ -28,7 +28,7 @@
 - [ ] Varkag Jassi
 - [ ] Gilon Gloz
 - [ ] Jah Girnyvutro
-- [ ] Bergen Biltom
+- [x] Bergen Biltom
 - [ ] Hahlar Muldimzilze
 - [ ] Dandod Meidid
 
