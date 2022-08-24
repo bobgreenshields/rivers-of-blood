@@ -1,1 +1,1 @@
-The demon that the #cult are trying to summon.
+Vaddh'akar, the demon that the #cult are trying to summon.
