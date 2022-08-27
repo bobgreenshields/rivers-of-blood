@@ -9,7 +9,7 @@ spell_code:
 
 The priest at the [[Temple of Tyr]].
 
-- female human
+- male human
 - naiive
 - a little pompous
 #### Knows

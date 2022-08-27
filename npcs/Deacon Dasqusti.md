@@ -9,9 +9,9 @@ spell_code:
 
 Assistant to [[Bishop Taryamre]] and chaos cultist
 
-- male human
+- female human
 - senior cultist in town
-- acts a little stupid
+- acts a quite kindly for a priest of Tyr
 - very obsequious to [[Bishop Taryamre]]
 - makes sure that [[Bishop Taryamre]] does not suspect that the cult exists
 - travels widely amongst the surrounding farms
