@@ -10,3 +10,11 @@ min_crafting_lvl: 11
 effects: When drunk, a creature gains the effect of the haste spell for 1 minute (no concentration required).
 tags: potion
 ---
+# Potion of Speed
+
+
+| **Rarity** | **Min Price** | **Max Price** | **Min Level** | **Crafting Time** | **Crafting Price** | **Min Crafting Level** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Very Rare | 5,001 | 50,000 | 11 | 400 | 10,000 | 11 |
+
+When drunk, a creature gains the effect of the haste spell for 1 minute (no concentration required).
