@@ -4,6 +4,7 @@ Ctrl-n create new note
 Ctrl-shift-n create note in new pane
 Alt-m move file to another folder
 Ctrl-e toggle edit / read
+Ctrl-alt-s toggle sidebar
 
 Ctrl-shift-, fold all headings and lists
 Ctrl-shift-. unfold all headings and lists
