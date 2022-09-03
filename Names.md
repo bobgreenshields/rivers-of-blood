@@ -34,7 +34,7 @@
 
 #### Female
 - [ ] Zisho Ragestar
-- [ ] Vefronu Lenskondrib
+- [x] Vefronu Lenskondrib
 - [ ] Sophe Bendrahk
 - [ ] Vivamvish Uvzinorko
 - [ ] Tolra Kask

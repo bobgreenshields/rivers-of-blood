@@ -31,11 +31,12 @@ tags: encounter
 		- and the goblins are going to execute them before they leave camp
 	- mixed in amongst the escaping goblins and hobgoblins are 2 ogres
 	- one of the prisoners (Bergen Biltom) has the location of the manticore den
-		- his son led an expedition to clear them out
+		- his son, Beorhtric, led an expedition to clear it out
 		- spoke to survivors and triangulated from the direction the manticore left the attack
 		- using the information from several attacks they pinpointed the den
 		- he didn't come back from the mission
 		- so the Bergen went out to find him and got captured by the goblins
+		- he implores the party to search for his son whose helm bears a dogs head carving
 	- some of the prisoners may give clues about who is paying for the slaves
 	- [[Wilda Warmheart | Wilda]] offers them the loot in the camp
 	- is this where they get the salt wagon?

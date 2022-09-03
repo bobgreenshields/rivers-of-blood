@@ -5,14 +5,14 @@
 	- Ring protection
 	- +1 staff use charge 2d6 force (fails on d6)
 - [ ] give the martial characters magic weapons - manticores??
-- [ ] finalise warehouse plan (check shape on map)
+- [x] finalise warehouse plan (check shape on map)
 - [ ] waystation scenarios (2 done, 1 left)
 - [ ] Ravim Chuck info
 - [ ] Manticore den letter
-- [ ] Alchemists house
+- [x] Alchemists house
 - [ ] Silversmith house
 - [x] Cultist stats - melee and magic combatants
-- [ ] Skaven stats
+- [x] Skaven stats
 - [ ] Rogue stats??? less important
 - [ ] Townfolk images
 - [ ] notes from town notice board

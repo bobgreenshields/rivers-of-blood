@@ -1,5 +1,5 @@
 ---
-aliases: Sara Taryamre
+aliases: Abolo Taryamre
 name: Bishop Taryamre
 role: Priest of Tyr
 location: [fc, fctt]

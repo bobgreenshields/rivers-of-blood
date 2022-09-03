@@ -7,7 +7,7 @@ tags: encounter
 This encounter can happen equally well in either Hightown or Lowtown.
 
 ### Events
-- [[Karxik]], the urchin, approaches pcs to help (for money of course)
+- [[Karkix]], the urchin, approaches pcs to help (for money of course)
 	- a place to stay
 	- the best traders to buy from
 	- the taverns with the best beer
@@ -17,12 +17,12 @@ This encounter can happen equally well in either Hightown or Lowtown.
 	- etc
 - suddenly zooms off to snatch up a loaf of bread that's fallen off the back of [[Zlatan]]'s hand cart
 - [[Zlatan]] - "Stop you thieving little scum", "Gonna teach you a lesson" etc etc
-- just before [[Zlatan]]'s huge hand grabs him [[Karxik]] shoots off along the street and around a corner
-- 20 seconds later [[Karxik]] appears, held by the scruff of the neck, with [[Sergeant Greruga]]
+- just before [[Zlatan]]'s huge hand grabs him [[Karkix]] shoots off along the street and around a corner
+- 20 seconds later [[Karkix]] appears, held by the scruff of the neck, with [[Sergeant Greruga]]
 - "You must be the most unlucky little villain in the whole of Fallcrest"
 - gives the loaf back to [[Zlatan]]
 - "Don't worry [[Zlatan]] I'll let [[Gakrern Tallore|Master Tallore]] (the alchemist) know that the thief was apprehended and it was none of your fault"
-- [[Karxik]] mouths "Help me" to the party
+- [[Karkix]] mouths "Help me" to the party
 - [[Sergeant Greruga|Greruga]] - "You're lucky I'm having such a good day.  How about we let Tyr decide your fate?"
 - if the party steps up for the kid
 - [[Sergeant Greruga|Greruga]] will let them go to the [[Temple of Tyr]] with them

@@ -1,5 +1,5 @@
 ---
-aliases: Abolo Dasqusti
+aliases: Sarya Dasqusti
 name: Deacon Dasqusti
 role: Priest of Tyr
 location: [fc, fctt]
