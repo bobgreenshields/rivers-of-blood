@@ -13,7 +13,7 @@
 - [ ] Stonvor Frozenbrook
 - [ ] Bronkol Deadforge
 - [ ] Jahlud Cissa
-- [ ] Bhasid Rostani
+- [x] Bhasid Rostani
 - [ ] Mahman Cushei
 - [ ] Ahmum Bhanim
 - [ ] Gustav Hastu

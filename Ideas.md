@@ -1,3 +1,23 @@
+## Return to Fallcrest
+- Greeted by [[Karkix]]
+- Abuse from [[Zlatan]] nothing injurous, low level harrassment
+	- spilt beer
+	- flung dung
+	- pelted with rotten food
+	- [[Zlatan]] looking on and laughing
+- 
+- See [[Malerakas Xandax]] and [[Gakrern Tallore]] together
+	- at the [[Temple of Tyr]] perhaps
+	- both sporting a brooch or ornamentation in red stone
+	- if it's a temple meet there may be others with bloodstone items
+- Checked out by townsfolk at a distance - some rough looking
+	- intelligence for [[The Cudgel]] once he knows they have the salt
+	- asked how they defeated the beasts in the tavern
+- See [[Namhazuu]] on the street
+- [[Yindrevi Ruvravrivzu]] will approach them in the tavern
+	- looking to get any useful info but
+	- can be a good resource for them
+## General
 - Uncover a chaos cult worshipping Khorne, the chaos god of blood
 - A group of disaffected merhants are trying to influence / overthrow the lord
 	- they want more focus on trade

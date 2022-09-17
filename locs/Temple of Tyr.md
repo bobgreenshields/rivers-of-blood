@@ -3,7 +3,7 @@ name: Temple of Tyr
 map_code: 30
 parent_loc: fc
 loc_code: fctt
-tags: [loc, cult]
+tags: [loc, cult, temple]
 ---
 
 ## NPCs

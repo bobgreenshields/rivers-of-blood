@@ -5,14 +5,16 @@
 	- Ring protection
 	- +1 staff use charge 2d6 force (fails on d6)
 - [ ] give the martial characters magic weapons - manticores??
+- [ ] look up if gauntlets ogre strength are magic weapon for unarmed attack
 - [x] finalise warehouse plan (check shape on map)
-- [ ] waystation scenarios (2 done, 1 left)
-- [ ] Ravim Chuck info
+- [x] waystation scenarios (2 done, 1 left)
+- [x] Ravim Chuck info
 - [ ] Manticore den letter
+- [ ] other letters
 - [x] Alchemists house
 - [ ] Silversmith house
-- [x] Cultist stats - melee and magic combatants
+- [ ] Cultist stats - magic combatants
 - [x] Skaven stats
 - [ ] Rogue stats??? less important
-- [ ] Townfolk images
-- [ ] notes from town notice board
+- [x] Townfolk images
+- [x] notes from town notice board
