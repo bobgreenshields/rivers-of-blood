@@ -3,9 +3,10 @@
 	- Ring of the ram (fails on d6?) 1d3 charges a day
 	- Seeker dart
 	- Ring protection
+	- [[Potion of Fire Breath]]
 	- +1 staff use charge 2d6 force (fails on d6)
 - [ ] give the martial characters magic weapons - manticores??
-- [ ] look up if gauntlets ogre strength are magic weapon for unarmed attack
+- [x] look up if gauntlets ogre strength are magic weapon for unarmed attack
 - [x] finalise warehouse plan (check shape on map)
 - [x] waystation scenarios (2 done, 1 left)
 - [x] Ravim Chuck info
