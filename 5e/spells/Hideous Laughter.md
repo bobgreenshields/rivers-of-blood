@@ -1,5 +1,5 @@
 ---
-user: [  ]
+user: [ rrw ]
 casting_time: "1 Action"
 components: V, S, M
 concentration: ✅
@@ -8,7 +8,7 @@ level: 1
 range: 30ft
 range_ft: 30
 name: Hideous Laughter
-save: None
+save: Wis
 tags: spell
 ---
 # Hideous Laughter

@@ -1,5 +1,5 @@
 ---
-user: [  ]
+user: [ rrw ]
 casting_time: "1 Action"
 components: V
 concentration: ❌
@@ -8,7 +8,7 @@ level: 0
 range: 60ft
 range_ft: 60
 name: Mind Sliver
-save: None
+save: Int
 tags: spell
 ---
 # Mind Sliver

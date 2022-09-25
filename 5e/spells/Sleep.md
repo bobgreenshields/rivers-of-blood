@@ -1,5 +1,5 @@
 ---
-user:
+user: [ rrw ]
 casting_time: "1 Action"
 components: V, S, M
 concentration: ❌
@@ -24,6 +24,6 @@ Starting with the creature that has the lowest current hit points, each creature
 
 Undead and creatures immune to being [[charmed]] aren’t affected by this spell.
 
-**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d8 for each slot level above 1st.
 
-- (a pinch of fine sand, rose petals, or a cricket)
+M - a pinch of fine sand, rose petals, or a cricket
