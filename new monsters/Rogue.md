@@ -9,21 +9,22 @@
 
 
 #### Sneak Attack
-Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
+Once per turn, the rogue can deal an extra 1d6 damage to one creature the rogue hits with an attack if the rogue has advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
-You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t [[incapacitated]] and you don’t have disadvantage on the attack roll.
+The rogue doesn't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t [[incapacitated]] and the rogue doesn’t have disadvantage on the attack roll.
 
 #### Cunning Action
 
-You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage or Hide action.
+The rogue can take a bonus action on each of their turns in combat. This action can be used only to take the Dash, Disengage or Hide action.
+
 
 #### Skirmisher
 
-You can move up to half your speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn’t provoke opportunity attacks.
+The rogue can move up to half the rogue's speed as a reaction when an enemy ends its turn within 5 feet of the rogue. This movement doesn’t provoke opportunity attacks.
 
 #### Steady Aim
 
-As a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven’t moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
+As a bonus action, the rogue gives theirself advantage on their next attack roll on the current turn. The rogue can use this bonus action only if the rogue hasn’t moved during this turn, and after the rogue uses the bonus action, the rogue's speed is 0 until the end of their current turn.
 
 ## Higher CR
 #### Skulker
