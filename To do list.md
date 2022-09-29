@@ -1,3 +1,4 @@
+- [ ] create a list of events for when party comes back to Fallcrest
 - [ ] spec out some loot
 	- Blood spear - reduce to zero get 2d6 temp hp
 	- Ring of the ram (fails on d6?) 1d3 charges a day
