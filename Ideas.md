@@ -17,6 +17,49 @@
 - [[Yindrevi Ruvravrivzu]] will approach them in the tavern
 	- looking to get any useful info but
 	- can be a good resource for them
+
+
+# Returning to Fallcrest
+
+
+## Timeline
+
+
+
+* Approached by Rarim Chuv (day 3?)
+
+
+## What can they discover
+
+
+
+* Spot the Silversmith is a cultist
+* Silversmith hangs out with Alchemist (another cultist)
+* Follow cultists to the catacombs
+* Follow the Silversmith to the Catacombs
+* Catacombs have town guards at the entrance
+* The guards were put in place by Greruga
+* The River Rat guards outside the Alchemists
+* The Silversmith has been received in houses that he wouldn’t normally have accessed
+* Information regarding the existence of the political group
+    * Need specific items
+    * Need a name for the  group
+    * Some of them don’t wear the bloodstone brooches
+
+
+## Rarim Chuv approaches them
+
+
+
+* He is convinced about the cult
+* Under pressure to bring that Alchemists attackers to justice
+* The warden is under political pressure and is not interested in suspicions of a cult
+* The warden will not give him resources to investigate the cult
+* The party’s only redemption is to prove the existence of the cult
+* And that the alchemist was a cult member
+* He suspects the catacombs
+
+
 ## General
 - Uncover a chaos cult worshipping Khorne, the chaos god of blood
 - A group of disaffected merhants are trying to influence / overthrow the lord
