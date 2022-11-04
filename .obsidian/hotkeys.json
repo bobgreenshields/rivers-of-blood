@@ -17,14 +17,7 @@
       "key": "E"
     }
   ],
-  "editor:toggle-fold": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "3"
-    }
-  ],
+  "editor:toggle-fold": [],
   "app:go-forward": [
     {
       "modifiers": [

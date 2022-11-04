@@ -5,6 +5,7 @@ role: Priest of Tyr
 location: [fc, fctt]
 tags: [npc, cult]
 spell_code:
+npc_code: deacon
 ---
 
 Assistant to [[Bishop Taryamre]] and chaos cultist

@@ -5,6 +5,7 @@ role: The Alchemist and cult member
 location: [fc, fcal]
 tags: [npc, cult]
 spell_code: 
+npc_code: alch
 ---
 A tall, slim, urbane man in his early fifities.
 

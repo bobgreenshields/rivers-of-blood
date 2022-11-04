@@ -1,7 +1,8 @@
 ---
 aliases: 
 location: Abandoned temple 
-tags: encounter
+tags: [ encounter, loc]
+loc_code: md
 ---
 
 There have been numerous reports of a manticore raiding farms and travellers on the road in search of tasty man flesh.  Few know of the location of the lair apart from [[Wilda Warmheart]].  She has collated the locations of the attacks and then sent scouts out to look for possible lairs and any trace of the beast.

@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "fileSortOrder": "alphabetical",
-  "vimMode": true
+  "vimMode": true,
+  "readableLineLength": true
 }

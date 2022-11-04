@@ -20,24 +20,24 @@
 
 
 # Returning to Fallcrest
-
+## Demon sequence
+- find the word
+- word is a demon's name
+- specfic method to summon
+- satisfied in 2 (or more) days
 
 ## Timeline
 
-
-
 * Approached by Rarim Chuv (day 3?)
 
-
 ## What can they discover
-
-
 
 * Spot the Silversmith is a cultist
 * Silversmith hangs out with Alchemist (another cultist)
 * Follow cultists to the catacombs
 * Follow the Silversmith to the Catacombs
 * Catacombs have town guards at the entrance
+* One of the urchins has disappeared following people into the catacombs
 * The guards were put in place by Greruga
 * The River Rat guards outside the Alchemists
 * The Silversmith has been received in houses that he wouldn’t normally have accessed
@@ -49,8 +49,12 @@
 
 ## Rarim Chuv approaches them
 
-
-
+* Sends a note to Suzi
+	* cabal trying to take over the town
+	* but there is something more sinister behind it
+	* and that is the important thing
+	* there is a word Vaddh'akar
+	* something to do with the men in red robes
 * He is convinced about the cult
 * Under pressure to bring that Alchemists attackers to justice
 * The warden is under political pressure and is not interested in suspicions of a cult

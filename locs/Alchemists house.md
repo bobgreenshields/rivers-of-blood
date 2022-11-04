@@ -5,6 +5,10 @@ parent_loc: fc
 loc_code: fcal
 tags: [loc, cult, encounter]
 ---
+#### In the cellar
+
+The robes found in the basement shrine are reversibel.  Dark on the outside but with a bright red lining.
+
 ### Outside
 
 The [[River Rats]] have posted guards around the house in addition to those of the alchemist.

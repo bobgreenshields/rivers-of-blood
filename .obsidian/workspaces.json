@@ -1,0 +1,172 @@
+{
+  "workspaces": {
+    "Screen": {
+      "main": {
+        "id": "667c819bdf97cc5c",
+        "type": "split",
+        "children": [
+          {
+            "id": "71240f60b29b0dd6",
+            "type": "tabs",
+            "dimension": 55.2791597567717,
+            "children": [
+              {
+                "id": "d397fe6bd796d437",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ideas.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "56c4af856d8d5e58",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "templates/loc meta.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "d934254643de10fa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "secrets/Skull key.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "cf23433f9a5238cd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Screen.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "1b7c4d4c6cdb84e9",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "3e8ad882af6c122a",
+            "type": "tabs",
+            "dimension": 44.7208402432283,
+            "children": [
+              {
+                "id": "686aaf5bfcf8db85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "npcs/Karkix.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7fa3ba748b0665d4",
+        "type": "split",
+        "children": [
+          {
+            "id": "61cec3d35963acf7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7513d2dcff7b857c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1988ef858fb5a1e8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "robe",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "f811ab71096c6d93",
+        "type": "split",
+        "children": [
+          {
+            "id": "2081b6d2c08e6e9b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9ea6b45af69c994",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "npcs/Karkix.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "686aaf5bfcf8db85"
+    }
+  },
+  "active": "Screen"
+}

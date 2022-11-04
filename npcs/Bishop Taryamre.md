@@ -5,6 +5,7 @@ role: Priest of Tyr
 location: [fc, fctt]
 tags: npc
 spell_code:
+npc_code: bishop
 ---
 
 The priest at the [[Temple of Tyr]].
