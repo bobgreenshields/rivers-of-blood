@@ -6,28 +6,29 @@ known_by: [  ]
 found_at: [ md ]
 tags: [ sec ]
 ---
-`=this.summary`
+#### `=this.summary`
 
-#### A letter
-From [[Rarim Chuv]] asking him to question some people (who?) and scout some places (where?)
+Folded into the letter is a crumpled scrap of paper covered in scribbled notes.  The handwriting of the notes is clearly different to that of the letter.
+
+#### The letter
 
 Rurik,
-I have a mission for you my friend.  Well, it might actually be two.  Travel to Sharp Edge, find Balek's latest claim, question him and the other dwarven prospectors about our mystery stone.  Someone must know what it is or have come across it before and those miners are likely candidates.
+I know that i asked you to gather information for me in Fallcrest but I have a pressing mission for you that cannot wait.  Once it is completed we can meet up and you can pass on all that you have gleaned so far.
 
-I'll meet you at the Waystation but won't be there for another week and a half so drop in on as many homesteads as you can and talk to them about travellers, the disappearances and any suspicious happenings.  Folk love to gossip and I'm sure you will be able to pick up something that may help us link these coincidences.
+Travel to Sharp Edge, find Balek's latest claim, question him and the other dwarven prospectors about our mystery stone.  Someone must know what it is or have come across it before and those miners are likely candidates.
 
-I will pay you the usual rate when we meet at Wilda's.  I'm sure I don't need to say it but be discrete and careful.  I fear that there is something more sinister behind this group of malcontents in Fallcrest and I would hate for you to become another disappearance.
+I'll meet you at the Waystation and we can swap what we have discovered over a tankard of ale and a bowl of Wilda's goat stew.  I'm sure I don't need to say it but be careful, discrete and watch your back.  I fear that there is something more sinister behind this stone and the group of malcontents in Fallcrest, I would hate for you to become another disappearance.
 
-Farewell
+Farewell 
 
 Rarim
 
 
-#### His notes
+#### The notes
 - who are the eight by eight?
-- ceremony of the merging? 
-- who are the red priests?
+- and the red priests?
 - and who are their followers?
+- ceremony of the merging? 
 - met the dwarves of somewhere to ask the stone
 	- none of the miners knew what it was
 	- but a very old dwarf had heard of this stone

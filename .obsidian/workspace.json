@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "secrets/Ruriks letter.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -122,15 +122,15 @@
   },
   "active": "8a9d26ae0c53e5f1",
   "lastOpenFiles": [
+    "items/Bloodletter sword.md",
+    "secrets/Ruriks letter.md",
     "Return nodes.excalidraw.md",
     "Information flowchart.md",
-    "secrets/Ruriks letter.md",
     "npcs/Malachi Klendathu.md",
     "encounters/The informant.md",
     "npcs/Rarim Chuv.md",
     "secrets/Silversmiths note.md",
     "secrets/Burnt letters.md",
-    "locs/Silversmiths house.md",
-    "npcs/Faren Markelhay.md"
+    "locs/Silversmiths house.md"
   ]
 }
