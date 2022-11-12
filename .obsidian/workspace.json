@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "8a9d26ae0c53e5f1",
+            "id": "e5589aff11012140",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,11 +120,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a9d26ae0c53e5f1",
+  "active": "d9ea6b45af69c994",
   "lastOpenFiles": [
-    "items/Bloodletter sword.md",
-    "secrets/Ruriks letter.md",
     "Return nodes.excalidraw.md",
+    "secrets/Ruriks letter.md",
+    "items/Bloodletter sword.md",
     "Information flowchart.md",
     "npcs/Malachi Klendathu.md",
     "encounters/The informant.md",

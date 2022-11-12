@@ -29,7 +29,12 @@ Rarim
 - and the red priests?
 - and who are their followers?
 - ceremony of the merging? 
-- met the dwarves of somewhere to ask the stone
+
+#### The Dwarves
+
+- [ ] how to integrate this into the letter or notes?
+
+- met the dwarves of somewhere to ask about the stone
 	- none of the miners knew what it was
 	- but a very old dwarf had heard of this stone
 	- powerful magical properties
