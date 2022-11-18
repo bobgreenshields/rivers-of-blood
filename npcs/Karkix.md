@@ -15,3 +15,6 @@ LIST summary from #sec and -"templates"
 FLATTEN known_by
 WHERE known_by = this.npc_code
 ```
+
+### Orc
+Sword +4 S `dice: 1d8+4 |render`

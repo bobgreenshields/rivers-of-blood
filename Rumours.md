@@ -15,7 +15,8 @@ Maybe have rumours that the pcs can gather around Fallcrest.  Maybe mix in a few
 	- if investigated they live near to the [[Gakrern Tallore|alchemist]]
 - [[Sergeant Greruga]] is rumoured to be seeing the daughter of a wealthy Hightown merchant
 - wealthy Hightown folk have been asking the [[Malerakas Xandax|silversmith]] to make silver weapons for them
-- a notorious drunkard told stories of seeing thin bony humanoids through the entrance of the [[The Catacombs]]
+- an urchin disappeared near the catacombs [[Missing at the catacombs]]
+	- a notorious drunkard told stories of seeing thin bony humanoids through the entrance of the [[The Catacombs]]
 	- townsfolk are quick to add that tales of bogeymen in the catacombs were popular when they were children
 	- [[Sergeant Greruga]] reports that he sent two patrols in to look around and they found nothing out of the ordinary
 

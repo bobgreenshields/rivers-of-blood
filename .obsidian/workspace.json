@@ -4,40 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "379c9ab68450b311",
+        "id": "c3d21deed1b1d548",
         "type": "tabs",
         "children": [
           {
-            "id": "5a23dab176323eb1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Return nodes.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e5589aff11012140",
+            "id": "1280c54ee15bf53e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secrets/Ruriks letter.md",
+                "file": "new monsters/Guard.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "e507697ad762857f",
+            "id": "88c9d498c6d824b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information flowchart.md",
+                "file": "To do list.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0a0b02efb8f89d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new monsters/Rogue.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2d8a220fdaaff202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e/potions list.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d230287c5831f0a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "041ef0268c2d4587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "locs/Fallcrest.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "854e02b145a437c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Merchants.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f811ab71096c6d93",
@@ -102,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secrets/Ruriks letter.md",
+                "file": "Merchants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +156,34 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "ec67621511643eec",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "d9ea6b45af69c994",
+  "active": "854e02b145a437c0",
   "lastOpenFiles": [
-    "Return nodes.excalidraw.md",
-    "secrets/Ruriks letter.md",
-    "items/Bloodletter sword.md",
-    "Information flowchart.md",
-    "npcs/Malachi Klendathu.md",
-    "encounters/The informant.md",
-    "npcs/Rarim Chuv.md",
-    "secrets/Silversmiths note.md",
-    "secrets/Burnt letters.md",
-    "locs/Silversmiths house.md"
+    "5e/potions list.md",
+    "Merchants.md",
+    "locs/Fallcrest.md",
+    "To do list.md",
+    "locs/Inns.md",
+    "maps/fallcrest.png",
+    "5e/Monster stats by CR.md",
+    "locs/Lucky Gnome Taphouse.md",
+    "npcs/River Rat Wizard.md",
+    "5e/potions/Potion of Hill Giant Strength.md"
   ]
 }

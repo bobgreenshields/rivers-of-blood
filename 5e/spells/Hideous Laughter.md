@@ -15,7 +15,7 @@ tags: spell
 
 | **Level** | **Casting Time** | **Range** | **Duration** | **Save** | **Components** | **Concentration** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 1 Action | 30ft | 1 Minute | None | V, S, M | ✅ |
+| 1 | 1 Action | 30ft | 1 Minute | `=this.save` | V, S, M | ✅ |
 
 A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall [[prone]], becoming [[incapacitated]] and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.
 

@@ -6,7 +6,7 @@ tags: loc
 
 A fortified town in [Nentir Vale](nentir-vale.png) where the King's Road crosses the Nentir River.
 
-### Inns
+### [[Inns]]
 ```dataview
 LIST map_code FROM #inn and -"templates"
 FLATTEN parent_loc
@@ -14,7 +14,7 @@ WHERE parent_loc = "fc"
 SORT map_code
 ```
 
-### Merchants
+### [[Merchants]]
 ```dataview
 LIST map_code FROM #merch and -"templates"
 FLATTEN parent_loc

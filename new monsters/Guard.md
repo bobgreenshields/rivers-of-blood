@@ -10,7 +10,7 @@
 	- Save DC 8 + Prof + Str or Dex mod = 8 + 2 +3 = 13
 - [[#Precision Attack]] add sup. die to att. roll can be after roll
 - [[#Riposte]] when creature misses reaction for attack add damage
-- [[#Trip Attack]] add damage and Str sv or trip
+- [[#Trip Attack]] add damage and DC 13 Str sv or prone
 
 
 ### Polearm master
@@ -41,4 +41,4 @@ When you make a weapon attack roll against a creature, you can expend one superi
 When a creature misses you with a melee attack, you can use your reaction and expend one superiority die to make a melee weapon attack against the creature. If you hit, you add the superiority die to the attack's damage roll.
 
 #### Trip Attack
-When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
+When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.  DC 8 + Prof + Str (Dex) mod

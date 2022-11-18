@@ -1,4 +1,9 @@
 - [ ] create a list of events for when party comes back to Fallcrest
+- [ ] use updated Fallcrest map with 30, 31, 32 (new locations)
+- [ ] do a Fallcrest map leaflet with useful locations - inns, alchemist etc
+- [ ] guard and rogue tokens
+- [ ] warp spider tokens
+- [ ] items available in Fallcrest merchants
 - [ ] spec out some loot
 	- Blood spear - reduce to zero get 2d6 temp hp
 	- Ring of the ram (fails on d6?) 1d3 charges a day
@@ -17,6 +22,6 @@
 - [ ] Silversmith house
 - [ ] Cultist stats - magic combatants
 - [x] Skaven stats
-- [ ] Rogue stats??? less important
+- [x] Rogue stats??? less important
 - [x] Townfolk images
 - [x] notes from town notice board

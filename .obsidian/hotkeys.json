@@ -24,7 +24,7 @@
         "Alt",
         "Mod"
       ],
-      "key": "K"
+      "key": "L"
     }
   ],
   "app:go-back": [
@@ -33,7 +33,7 @@
         "Alt",
         "Mod"
       ],
-      "key": "J"
+      "key": "H"
     }
   ],
   "editor:fold-all": [
@@ -134,9 +134,10 @@
   "window:zoom-in": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "+"
+      "key": "="
     }
   ]
 }

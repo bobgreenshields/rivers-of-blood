@@ -26,14 +26,22 @@ Rarim
 
 #### The notes
 - who are the eight by eight?
-- and the red priests?
-- and who are their followers?
-- ceremony of the merging? 
+- ??? how are they linked to [[Vaddh akar]], what or who is that?
+- and who are the red priests?
+- if they are priests they must have followers?
+- what is the ceremony of the merging? 
 
 #### The Dwarves
 
-- [ ] how to integrate this into the letter or notes?
+- only known by aged dwarf
+- rarely seen
+- naturally occuring or artifact?
+- magical properties - stores/focuses power
+- physical mutation
+- mental transformation - evil?
+- Warpstone
 
+#### The background
 - met the dwarves of somewhere to ask about the stone
 	- none of the miners knew what it was
 	- but a very old dwarf had heard of this stone

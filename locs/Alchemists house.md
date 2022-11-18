@@ -5,6 +5,12 @@ parent_loc: fc
 loc_code: fcal
 tags: [loc, cult, encounter]
 ---
+### Combat
+
+[[Guard]]: `dice: 2d10+16` Halberd `dice: 1d10+3` Butt `dice: 1d4+3` Sup die `dice: 1d8`
+[[Rogue]]: `dice: 2d8+11`  Sword/Bow `dice: 1d6+3` Sneak `dice: 2d6+3`
+[[River Rat Wizard|Mage]]: `dice: 2d6+6` [[Mind Sliver]] `dice: 1d6`[[Ray of Frost|Ray Frost]] `dice: 1d8` [[Sleep]] `dice: 5d8`
+[[Magic Missile]] `dice: 1d4+1` `dice: 2d4+2` `dice: 3d4+3`
 #### In the cellar
 
 The robes found in the basement shrine are reversibel.  Dark on the outside but with a bright red lining.

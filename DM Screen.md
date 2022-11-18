@@ -19,6 +19,8 @@ cssclass: dashboard
 	- [[Warmheart Waystation]]
 	- [[Manticore den]]
 - Secrets & clues
+	- [[All secrets]]
+	- [[Rumours]]
 	- [[Objects of devotion]]
 	- [[Blood red clasps]]
 	- [[Missing at the catacombs]]
@@ -28,8 +30,10 @@ cssclass: dashboard
 	- [[Alchemists house]]
 	- [[Silversmiths house]]
 	- [[Moonstone Keep]]
+	- [[Inns]]
 - NPCs
 	- [[Karkix]]
+	- [[Yindrevi Ruvravrivzu]]
 	- [[Zlatan]]
 	- [[Malerakas Xandax]] the Silversmith
 	- [[Gakrern Tallore]] the Alchemist

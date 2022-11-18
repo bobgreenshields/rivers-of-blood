@@ -2,7 +2,7 @@
 aliases: 
 name: Missing at the catacombs
 summary: "An urchin disappeared"
-known_by: [ karkix ]
+known_by: [ karkix, yindrevi ]
 found_at: [  ]
 tags: [ sec ]
 ---

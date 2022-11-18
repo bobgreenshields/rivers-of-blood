@@ -30,14 +30,14 @@
 - [ ] Jah Girnyvutro
 - [x] Bergen Biltom
 - [ ] Hahlar Muldimzilze
-- [ ] Dandod Meidid
+- [x] Dandod Meidid
 
 #### Female
 - [ ] Zisho Ragestar
 - [x] Vefronu Lenskondrib
 - [ ] Sophe Bendrahk
 - [ ] Vivamvish Uvzinorko
-- [ ] Tolra Kask
+- [x] Tolra Kask
 - [ ] Za Vorgetsk
 - [x] Yindrevi Ruvravrivzu
 - [x] Sara Taryamre
