@@ -1,6 +1,6 @@
 - [ ] create a list of events for when party comes back to Fallcrest
 - [ ] use updated Fallcrest map with 30, 31, 32 (new locations)
-- [ ] do a Fallcrest map leaflet with useful locations - inns, alchemist etc
+- [ ] do a Fallcrest map leaflet with useful locations - inns, alchemist etc 1794.9 x 2307.7 ft
 - [ ] guard and rogue tokens
 - [ ] warp spider tokens
 - [ ] items available in Fallcrest merchants

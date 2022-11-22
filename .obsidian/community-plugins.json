@@ -3,5 +3,6 @@
   "templater-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-dice-roller"
+  "obsidian-dice-roller",
+  "obsidian-leaflet-plugin"
 ]

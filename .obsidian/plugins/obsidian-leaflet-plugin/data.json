@@ -1,0 +1,392 @@
+{
+  "mapMarkers": [
+    {
+      "id": "fallcrestmap",
+      "lastAccessed": 1668864706707,
+      "markers": [
+        {
+          "id": "ID_988919a9c96a",
+          "type": "Focus",
+          "loc": [
+            1426.2863386506174,
+            894.3818409997989
+          ],
+          "link": "Silversmiths house",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6388441721427135,
+            -0.792381299250343
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1afb8a386898",
+          "type": "Focus",
+          "loc": [
+            1412.568245711335,
+            1032.904524491031
+          ],
+          "link": "Temple of Tyr",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7377889460650221,
+            -0.7847601365062973
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d91a0abae829",
+          "type": "Focus",
+          "loc": [
+            1407.7136613493826,
+            1300.381840999799
+          ],
+          "link": "Alchemists house",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9288441721427135,
+            -0.7820631451941015
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9eb691be82a",
+          "type": "Inn",
+          "loc": [
+            727.5227282252522,
+            1002.5727920177367
+          ],
+          "link": "Blue Moon Alehouse",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7161234228698119,
+            -0.4041792934584734
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b38f9babb6b",
+          "type": "Inn",
+          "loc": [
+            1016.3317951011218,
+            751.1909510179379
+          ],
+          "link": "Lucky Gnome Taphouse",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5365649650128128,
+            -0.5646287750561788
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_082a48288a39",
+          "type": "Inn",
+          "loc": [
+            2032.4625227306667,
+            1039.184012698294
+          ],
+          "link": "Silver Unicorn Inn",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89fb6b8afbf8",
+          "type": "Merchant",
+          "loc": [
+            1937.4618655809386,
+            1092.1848121837077
+          ],
+          "link": "Halfmoon Trading House",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_380bb98918c8",
+          "type": "Merchant",
+          "loc": [
+            1709.5227282252522,
+            966.2863654908299
+          ],
+          "link": "House Azaer",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6902045467791642,
+            -0.949734849014029
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8f9b9e9f9db",
+          "type": "Merchant",
+          "loc": [
+            1017.3099317500162,
+            1543.629976456641
+          ],
+          "link": "Naerumars Imports",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cad9d93a6b99",
+          "type": "Merchant",
+          "loc": [
+            613.1409230125696,
+            795.4773165087678
+          ],
+          "link": "Teldorthans Arms",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5681980832205484,
+            -0.3406338461180942
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a4aeb981929",
+          "type": "Merchant",
+          "loc": [
+            1140.9500204062283,
+            885.5727920177367
+          ],
+          "link": "Sandercot Provisioners",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6325519942983834,
+            -0.6338611224479046
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbc9386b3bc9",
+          "type": "Focus",
+          "loc": [
+            1263.7136308315935,
+            1208.8341032453143
+          ],
+          "link": "The Catacombs",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8634529308895103,
+            -0.7020631282397741
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daba895bfada",
+          "type": "Inn",
+          "loc": [
+            1824.4456240135125,
+            578.0300335864092
+          ],
+          "link": "Nentir Inn",
+          "layer": "%5B%5Bfallcrest.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "maps/Fallcrest map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Merchant",
+      "iconName": "shopping-bag",
+      "color": "#333ed7",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Inn",
+      "iconName": "beer",
+      "color": "#26ba1c",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Focus",
+      "iconName": "map-marker",
+      "color": "#fd7e08",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.1.1",
+  "version": {
+    "major": 5,
+    "minor": 1,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[fallcrest.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[fallcrest.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "fallcrestmap",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        2307.7,
+        1794.9
+      ]
+    ],
+    "lat": 1250,
+    "long": 950,
+    "unit": "feet",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
