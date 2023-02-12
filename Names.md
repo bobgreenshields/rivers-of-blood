@@ -10,22 +10,23 @@
 - [x] Abolo Dasqusti
 - [ ] Midrien Unzanza
 - [ ] Stran Woodenshield
-- [ ] Stonvor Frozenbrook
-- [ ] Bronkol Deadforge
-- [ ] Jahlud Cissa
+- [ ] Stonvor Frozenbrook - card
+- [ ] Bronkol Deadforge - card
+- [ ] Jahlud Cissa - card
 - [x] Bhasid Rostani
 - [ ] Mahman Cushei
 - [ ] Ahmum Bhanim
 - [ ] Gustav Hastu
+- [ ] Zoran Hastu - the cudgel
 - [ ] Ryland Runetoe
-- [ ] Brayton Biltram
+- [x] Brayton Biltram
 - [ ] Tirian Mirthscribe
 - [ ] Thorbert Vikrifk
 - [ ] Hollis Hankhab
 - [x] Malachi Klendathu
-- [ ] Khesen Folundon
+- [ ] Khesen Folundon - card
 - [ ] Wassilie Estorus
-- [ ] Varkag Jassi
+- [ ] Varkag Jassi - card
 - [ ] Gilon Gloz
 - [ ] Jah Girnyvutro
 - [x] Bergen Biltom
@@ -35,8 +36,8 @@
 #### Female
 - [ ] Zisho Ragestar
 - [x] Vefronu Lenskondrib
-- [ ] Sophe Bendrahk
-- [ ] Vivamvish Uvzinorko
+- [ ] Sophe Bendrahk - card
+- [ ] Vivamvish Uzinorko - card
 - [x] Tolra Kask
 - [ ] Za Vorgetsk
 - [x] Yindrevi Ruvravrivzu
@@ -45,9 +46,9 @@
 - [ ] Zanepeih Boker
 - [ ] Zeiveh Rader
 - [ ] Nozzizzel Cragmaw
-- [ ] Suchi Sihraft
+- [ ] Suchi Sihraft - card
 - [ ] Siwe Wyvernmourn
-- [ ] Narano Lonemantle
+- [ ] Narano Lonemantle - card
 ## Dwarf
 #### Male
 - [ ] Daermin Starkfinder

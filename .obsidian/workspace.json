@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c3d21deed1b1d548",
+        "id": "71240f60b29b0dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "1280c54ee15bf53e",
+            "id": "cf23433f9a5238cd",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maps/Fallcrest map.md",
+                "file": "DM Screen.md",
                 "mode": "preview",
                 "source": true
               },
@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "0a0b02efb8f89d99",
+            "id": "721265644e41ece5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new monsters/Rogue.md",
+                "file": "To do list.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "a90f75128659abb7",
+            "id": "6df519ec732f4a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e/Attunement.md",
+                "file": "5e/spells/Mind Sliver.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "robe",
+                "query": "loot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f811ab71096c6d93",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5e/Attunement.md",
+                "file": "To do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,32 +117,44 @@
             }
           },
           {
-            "id": "ec67621511643eec",
+            "id": "50f228f458ad5634",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "a90f75128659abb7",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "721265644e41ece5",
   "lastOpenFiles": [
-    "5e/Loot tables.md",
-    "5e/spells/Invisibility.md",
-    "5e/spells/Fire Bolt.md",
-    "templates/spell all.md",
-    "templates/spell meta.md",
-    "5e/spells/Find Familiar.md",
-    "5e/spells/Expeditious Retreat.md",
-    "5e/spells/Detect Thoughts.md",
-    "templates/spell body.md",
-    "5e/Cantrips.md"
+    "encounters/Catacomb Temple.md",
+    "secrets/Burnt letters.md",
+    "To do list.md",
+    "maps/Fallcrest map.md",
+    "new monsters/Manticore.md",
+    "5e/spells/Ray of Frost.md",
+    "DM Screen.md",
+    "5e/spells/Sleep.md",
+    "encounters/Sewer spiders.md",
+    "locs/Fallcrest.md"
   ]
 }

@@ -8,6 +8,7 @@ spell_code: rrw
 ---
 # River Rat Wizard
 - [[#Spells]]
+## Stats
 - Int +3
 - Spell DC 13 Att +5
 - AC 12

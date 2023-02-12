@@ -1,6 +1,38 @@
 A demonic animate pool of blood.
 
-It can use a ranged psychic attack which can possibly stun and adversary.
+### Ranged psychic attack 
+
+- can do just psychic damage
+- **or** target is [[dazed]] on a failed Cha save
+
+### Pseudopod attack
+
+The demon lashes out with a bloody pseudopod
+
+- small bludgeoning
+- and psychic damage
+
+The Pseudopod attack can additionally be made as a reaction to the demon being hit by a melee weapon attack.
+
+### Grapple attack
+
+The demon attempts to enter the victims mouth, burst their internal organs and take over their body.
+
+- on a successful grapple can begin to choke a victim
+- target can break the grapple each turn
+- but if fails to break grapple takes auto 1d6 bludgeoning
+- if succeeds on reducing to zero HP
+	- no death saves
+	- and demon animates the body
+
+
+### Other actions
+
+- has a climb speed (good for escape)
+
+It can use a ranged psychic attack which can possibly stun and adversary - use [[dazed]]
+
+
 
 It can enter a stunned person through an orifice (usually mouth) and then control that being.  Watching this happen requires a save or the creature is [[incapacitated]] by the sheer horror.
 

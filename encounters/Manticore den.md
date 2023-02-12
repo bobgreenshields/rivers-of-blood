@@ -33,15 +33,24 @@ Noise from climbers will alert [[Kinziru]] who will fly out and attacksing his t
 
 [[Hammurabi]] is out hunting but will return as the 1d4 doom timer.
 
+### Loot
+- 45 gp
+- 86 sp
+- 123 cp
+- gems 34 gp
+- Ring of meteors
+- 14 +1 arrows
+
+
 ### Remains of cult scout
 
 **Tolra Kask** - a female human hunter that had been sent out to co-ordinate the efforts of the goblins and if needed hunt down victims.
 
-On what is left of her body is a soft leather pouch, quilted with raw wool to provide padding.  The pouch contains a hinged silver octagon about he size of a large hand mirror.
+On what is left of her body is a soft leather pouch, quilted with raw wool to provide padding.  The pouch contains a hinged silver octagon about he size of a large hand mirror.  In a small pocket is a wax slate and metal scribe.  The slate has sets of 7 vertical tally marks crossed diagonally with an eighth.  There are three sets of eight and five uncrossed lines.
 
 #### The octagon
 
-The hinges allow it to fold up but when opened out the sides gently stay in place and at each vertex a small warpstone has been embedded into the silver.
+An iron frame in the shape of an octagon has an inlaid silver strip.  The strip is set with a small warpstone at each vertex.
 
 The silver has been worked with an intricate geometric design.  DC 20 investigation check to recognise similar patterns on the silver scales at the [[Temple of Tyr]] on a fail you know you  have seen similar work before but can't remember where.
 
@@ -63,12 +72,7 @@ Anyone prof in arcana will guess that it can be powered up by channeling arcane 
 - there's a moment of mutual recognition
 - instantly pulls away
 - what do you do?
-- a  hand appears clutching a glass flask
-- and drops alchemists fire bomb through the portal
-- it explodes
-- DC20 Con to not drop the octagon or DC20 Dex to catch it
-- otherwise it hits the floor and the energised warpstones shatter
-- and explode for 1d3 radiant
+- the otagon goes dark
 - after pulling themselves together they realise that the second face was
 - [[Zlatan]]
 

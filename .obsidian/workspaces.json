@@ -8,44 +8,7 @@
           {
             "id": "71240f60b29b0dd6",
             "type": "tabs",
-            "dimension": 55.2791597567717,
             "children": [
-              {
-                "id": "d397fe6bd796d437",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ideas.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "56c4af856d8d5e58",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "templates/loc meta.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "d934254643de10fa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "secrets/Skull key.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              },
               {
                 "id": "cf23433f9a5238cd",
                 "type": "leaf",
@@ -58,34 +21,6 @@
                     "source": true
                   },
                   "pinned": true
-                }
-              },
-              {
-                "id": "1b7c4d4c6cdb84e9",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "3e8ad882af6c122a",
-            "type": "tabs",
-            "dimension": 44.7208402432283,
-            "children": [
-              {
-                "id": "686aaf5bfcf8db85",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "npcs/Karkix.md",
-                    "mode": "source",
-                    "source": true
-                  }
                 }
               }
             ]
@@ -147,7 +82,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "npcs/Karkix.md",
+                    "file": "DM Screen.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -165,7 +100,7 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "686aaf5bfcf8db85"
+      "active": "cf23433f9a5238cd"
     }
   },
   "active": "Screen"

@@ -6,6 +6,25 @@ tags: encounter
 
 - DC 12 Invest spider body warpstone splinters
 - DC 15 Invest spider body scarring around splinters
+- DC 14 Percep two cocooned bodies attached to the cave roof
+
+### Loot
+
+#### Adventurer
+
+- bullseye lantern [[Equipment#Lantern, Bullseye]]
+- studded leather armour
+- short sword
+- purse
+	- 40 sp
+	- 12 ep
+	- 4 gp
+- [[Oil of Slipperiness]]
+-  2 x Javelin of lightning (one use each)
+
+#### Sewer worker
+- purse with 8cp
+- a silver horse pendant (12sp)
 
 ### Terrain
 

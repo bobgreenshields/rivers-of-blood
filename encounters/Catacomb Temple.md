@@ -14,9 +14,6 @@ Or maybe a wight (requiring magic weapons) and several ghouls making the front d
 
 - is there a [[Heart Crab swarm]] guarding the temple?
 - home to the [[Blood Demon]]?
-- do we use Skaven here
-- or Darklings perhaps
-- possibly even a few Deugar
 - or none of the above, just cultists
 
 #### Links to other nodes

@@ -8,7 +8,7 @@ tags: [ sec ]
 ---
 `=this.summary`
 
-A group of Tyr worshippors hang around the temple after a service.  Several, but not all, of the group have cloak clasps made of a red stone (Bloodstone) in various different designs.  The forms are different enough that you would be unlikely to notice unless you were aware of it.
+A group of Tyr worshippers hang around the temple after a service.  Several, but not all, of the group have cloak clasps made of a red stone (Bloodstone) in various different designs.  The forms are different enough that you would be unlikely to notice unless you were aware of it.
 
 Clasp wearers
 - [[Malerakas Xandax]]
