@@ -32,18 +32,6 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "6df519ec732f4a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5e/spells/Mind Sliver.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -146,13 +134,16 @@
   },
   "active": "721265644e41ece5",
   "lastOpenFiles": [
+    "encounters/Haven Encounters.md",
+    "To do list.md",
+    "5e/Lvl 1 spells.md",
+    "DM Screen.md",
+    "5e/spells/Mind Sliver.md",
     "encounters/Catacomb Temple.md",
     "secrets/Burnt letters.md",
-    "To do list.md",
     "maps/Fallcrest map.md",
     "new monsters/Manticore.md",
     "5e/spells/Ray of Frost.md",
-    "DM Screen.md",
     "5e/spells/Sleep.md",
     "encounters/Sewer spiders.md",
     "locs/Fallcrest.md"

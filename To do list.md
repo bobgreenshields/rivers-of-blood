@@ -1,5 +1,5 @@
 ### Items for last session
-- [ ] Mallerakas will not give up on the sword
+- [ ] Malerakas will not give up on the sword
 	- [ ] he knows they have it
 	- [ ] someone was in the house
 		- [ ] items of moderate value left behind
@@ -8,7 +8,7 @@
 	- [ ] finds sword
 	- [ ] needs to dig it up
 	- [ ] how do pcs find out that he is going to dig it up?
-- [ ] Mallerakas puts the word out that he's after labourers
+- [ ] Malerakas puts the word out that he's after labourers
 - [ ] Karkix finds out
 - [ ] Encounter at sword burial site
 	- [ ] before they have a long rest
@@ -16,13 +16,13 @@
 	- [ ] guys with missile weapons in cover
 	- [ ] mercenaries ready to fight - recycle the guards from the house
 	- [ ] maybe minions hiding ready to attack rear
-	- [ ] Mallarakas casting spells
+	- [ ] Malarakas casting spells
  #### The Haven
  - [ ] what do the minions know?
 	 - [ ] different for each minion type
 		 - [ ] maybe a small table of info for each minion type
 	 - [ ] know about the bloodletter?
- - [ ] proforma encounters
+ - [ ] proforma [[Haven Encounters]]
  - [ ] final encounter at the the sacrifice site
 	 - [ ] the bloodletter could be here
  
