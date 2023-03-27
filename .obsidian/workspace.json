@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "721265644e41ece5",
+            "id": "f556e18508123d11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do list.md",
-                "mode": "preview",
+                "file": "5e/monsters/powers/Arcane Blast.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do list.md",
+                "file": "5e/monsters/powers/Arcane Blast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,20 +132,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "721265644e41ece5",
+  "active": "f556e18508123d11",
   "lastOpenFiles": [
-    "encounters/Haven Encounters.md",
-    "To do list.md",
-    "5e/Lvl 1 spells.md",
+    "5e/spells/Mage Armour.md",
+    "encounters/Unearthing Crimson Tide.md",
+    "5e/spells/Bane.md",
+    "5e/spells/Mold Earth.md",
+    "5e/conditions/restrained.md",
+    "new monsters/Guard.md",
+    "5e/spells/Evards Black Tentacles.md",
+    "5e/spells/Web.md",
+    "5e/monsters/powers/Chromatic Beam.md",
+    "5e/monsters/powers/Arcane Blast.md",
     "DM Screen.md",
-    "5e/spells/Mind Sliver.md",
+    "blan.md",
+    "5e/monsters/powers/Lightning Flourish.md",
+    "templates/encounter.md",
+    "templates/power monster.md",
+    "new monsters/Cultists.md",
+    "5e/monsters/powers",
+    "5e/monsters",
     "encounters/Catacomb Temple.md",
-    "secrets/Burnt letters.md",
+    "To do list.md",
+    "Catacombs.md",
+    "5e/Long Rest.md",
+    "Alchemists house Screen.md",
     "maps/Fallcrest map.md",
-    "new monsters/Manticore.md",
-    "5e/spells/Ray of Frost.md",
-    "5e/spells/Sleep.md",
-    "encounters/Sewer spiders.md",
-    "locs/Fallcrest.md"
+    "locs/The Catacombs.md",
+    "locs/Alchemists house.md",
+    "encounters/Haven Encounters.md",
+    "5e/Lvl 1 spells.md"
   ]
 }

@@ -13,7 +13,7 @@ tags: [loc, cult, encounter]
 [[Magic Missile]] `dice: 1d4+1` `dice: 2d4+2` `dice: 3d4+3`
 #### In the cellar
 
-The robes found in the basement shrine are reversibel.  Dark on the outside but with a bright red lining.
+The robes found in the basement shrine are reversible.  Dark on the outside but with a bright red lining.
 
 ### Outside
 
