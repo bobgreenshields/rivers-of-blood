@@ -17,10 +17,7 @@ tags: spell
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 2 | 1 Action | 60ft | 1 Minute | Con | V, S, M | ✅ |
 
-
-
-
-> [!info] Fergus
+> [!INFO]- Fergus
 > contact 2d8 fire - DC 14 Con save or drop - disadv
 
 Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.

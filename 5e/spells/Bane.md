@@ -8,14 +8,14 @@ level: 1
 range: 30ft
 range_ft: 30
 name: Bane
-save: None
+save: Cha
 tags: spell
 ---
 # Bane
 
-| **Level** | **Casting Time** | **Range** | **Duration** | **Save** | **Components** | **Concentration** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 1 Action | 30ft | 1 Minute | None | V, S, M | ✅ |
+| **Level** | **Casting Time** | **Range** | **Area** | **Duration** | **Save** | **Components** | **Concentration** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `=this.level` | `=this.casting_time` | `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.components` | `=this.concentration` |
 
 Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
 
