@@ -7,6 +7,18 @@ tags: [encounter, loc, cult]
 
 Hidden away in the depths of the catacombs is the cult's temple.
 
+Light sucking gloom at the end of the corridor.
+
+- wight
+- 4 ghouls
+- 2 beetle swarms
+
+### Loot
+- +1 arrows
+- 5 Frost arrows +3 and an additional 2d8 cold damage
+
+Treasure in the family crypt
+
 
 They have an arrangement with a ghoul who resides in the caves.  The cult feeds the bloodless corpses to the ghoul and in (or two?) return it scares away anyone curious about the catacombs.  The ghoul lets the cultists come and go.
 

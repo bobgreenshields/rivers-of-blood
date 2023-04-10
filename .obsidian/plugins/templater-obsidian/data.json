@@ -25,6 +25,10 @@
     {
       "folder": "secrets",
       "template": "templates/sec meta.md"
+    },
+    {
+      "folder": "5e/powers",
+      "template": "templates/power all.md"
     }
   ],
   "syntax_highlighting": true,

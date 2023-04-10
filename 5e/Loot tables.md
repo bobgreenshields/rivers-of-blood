@@ -55,6 +55,9 @@ Magic Item Lvl 4-6 `dice: [[Loot tables^magic-items-lvl-4-6]]`
 | Star rose quartz | translucent rosy stone with white star-shaped center |
 | Zircon | transparent pale blue-green |
 
+^50gp-gemstones
+
+
 #### 500 GP Gemstones
 | Stone | Desc |
 |:---:|:---:|

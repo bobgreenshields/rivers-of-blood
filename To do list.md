@@ -1,4 +1,9 @@
 ### Items for last session
+
+- fireworm token
+- che
+
+[[to-do-hadleys-haven.pdf]]
 - [ ] Malerakas will not give up on the sword
 	- [ ] he knows they have it
 	- [ ] someone was in the house

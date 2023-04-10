@@ -2,7 +2,7 @@
 - Prof +2 Att = 3 + 2 = 5
 - Dex +2
 - Half Plate AC = 14 + Dex 2 = 16
-- Halberd 1d10 damage for 1d10+3, reach 10ft
+- Halberd +5 att 1d10 damage for 1d10+3, reach 10ft
 - [[#Polearm master]]
 - [[#Combat Superiority]]
 	- 3 maneuvers
@@ -12,6 +12,11 @@
 - [[#Riposte]] when creature misses reaction for attack add damage
 - [[#Trip Attack]] add damage and DC 13 Str sv or prone
 
+### Mercenary variant
+
+- Use Poleaxe instead of Halberd (stats as Greataxe)
+- Poleaxe +5 att  1d12 damage for 1d12+3, reach 5ft
+- swap out Polearm master for [[#Great Weapon Mastery]]
 
 ### Polearm master
 - bonus action attack 1d4
@@ -42,3 +47,9 @@ When a creature misses you with a melee attack, you can use your reaction and ex
 
 #### Trip Attack
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die to the attack's damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.  DC 8 + Prof + Str (Dex) mod
+
+### Great Weapon Mastery
+
+-   On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+
+-   Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.

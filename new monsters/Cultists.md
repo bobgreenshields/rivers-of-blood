@@ -24,6 +24,8 @@ Maybe have several templates, is that different functions?  Maybe a bit like the
 - weapons burst into demonic flame for fire damage
 - dust of [[dazed]] for a reaction on being attacked
 - always use weapons that draw blood
+- priest power ideas
+	- [[Arcane Blast]]
 - priests can induce the rage of khorne in others i.e. pcs
 	- charisma save
 	- gives reckless attack
