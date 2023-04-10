@@ -17,3 +17,6 @@ tags: power
 | `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.concentration` |
 
 Any attacks on the user until the start of their next turn are made at -5 to hit, until the turn after -4, then -3 etc.
+
+*Variant*
+Attacks are made at 1d6-1 until a 1 is rolled and the spell ceases.

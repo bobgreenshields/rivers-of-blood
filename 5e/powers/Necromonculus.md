@@ -16,7 +16,7 @@ tags: power
 |:---:|:---:|:---:|:---:|:---:|
 | `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.concentration` |
 
-You throw a small simulacrum that when it hits any surface turns into the creature that represented by the figurine.
+You throw a small simulacrum that when it hits any surface turns into the creature represented by the figurine.
 
 Good examples...
 - Necrophidius

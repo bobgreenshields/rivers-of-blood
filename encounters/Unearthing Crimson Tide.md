@@ -11,6 +11,15 @@ tags: encounter
 - 4 diggers with shovels and torches
 - one master earthworker with [[Mold Earth]] cantrip
 
+### Loot
+#### Malerakas
+
+#### Guards (each)
+- [[Potion of Greater Healing]]
+- `dice: 3d6 +50`  gp
+- `dice: 5d6`  sp
+- one has a gem in his boot `dice: [[Loot tables#^50gp-gemstones]]`
+
 ### The plan
 
 - the archers hide behind trees to the rear

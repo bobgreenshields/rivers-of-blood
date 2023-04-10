@@ -13,6 +13,10 @@ Light sucking gloom at the end of the corridor.
 - 4 ghouls
 - 2 beetle swarms
 
+### Loot
+- +1 arrows
+- 5 Frost arrows +3 and an additional 2d8 cold damage
+
 Treasure in the family crypt
 
 
