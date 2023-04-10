@@ -1,3 +1,13 @@
 - Watchtower
+	- archers in the tower and cultists on the ground
 - Demonic hounds?? 40K Flesh Hounds
-- A kid, will the child give them up or will the silence the youngster?
+	- maybe it picks up their scent
+	- knowing they are not chaos disciples
+- A kid, will the child give them up or will they silence the youngster?
+- [[Malerakas Xandax]] along with the cultists
+	- does he have Crimson Tide?
+	- he can summon the Spirit of Khorne
+- releasing the captives
+	- perhaps some of them can fight
+	- if the pcs can arm then
+	- they could support the pcs in the last battle
