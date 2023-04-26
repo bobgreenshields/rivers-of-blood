@@ -1,0 +1,52 @@
+---
+cssclass: dashboard
+tags: screen
+---
+# Catacombs
+- Prompts
+	- [[Catacomb Temple#Approach|Approach]]
+	- [[Catacomb Temple#On entering|Entering]]
+	- [[Catacomb Temple#Going deeper|Going deeper]]
+- [[Catacomb Temple]]
+- Photos
+	- [[catacombs4.jpg|Large]]
+	- [[catacombs1.jpg|Large pillars]]
+	- [[catacombs3.jpg|Medium]]
+	- [[catacombs2-cr.jpg|small]]
+# Rules
+- Resting
+	- [[Resting#Short Rest|Short Rest]]
+	- [[Resting#Long Rest|Long Rest]]
+- Misc
+	- [[Spell Scroll]]
+	- [[Death Saves]]
+- Spells
+	- [[Cantrips]]
+	- [[Lvl 1 spells]]
+	- [[Lvl 2 spells]]
+- [[Powers]]
+# Monsters
+- [[Ghoul]]
+	- AC 12
+	- Bite +2 `dice: 2d6+2` P crit `dice: 4d6+2`
+	- Claws +4 `dice: 2d4+2` S crit `dice: 4d4+2`
+		- DC10 Con Sv or [[dazed]] repeat end of own turn
+	- HP `dice: 5d8`
+- [[Wight]]
+	- AC 14 Damage resist
+		- Non-silver, non-magic B,P,S
+		- Necro
+	- *Multiattack* 2 attacks
+		- 1 can be Lifedrain
+	- LIfedrain +4 `dice: 1d6+2` Necro crit `dice: 2d6+2`
+		- DC 13 Con or max HP reduced by same amount
+		- until end next long rest
+	- LSword +4 `dice: 1d8+2` S crit `dice: 2d8+2`
+	- LBow +4 `dice: 1d8+2` crit `dice: 2d8+2`  range 150/600 P
+	- HP `dice: 6d8+18`
+- [[Beetle Swarm]]
+	- AC 12
+		- Damage resist B,P,S
+	- Swarm - can occupy creatures space
+	- Bite +3 `dice: 4d4` P crit `dice: 8d4` or if 1/2 HP `dice: 2d4`
+	- HP `dice: 5d8`

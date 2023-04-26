@@ -1,11 +1,12 @@
 ---
 cssclass: dashboard
+tags: screen
 ---
 
 # Rules
 - Resting
-	- [[Short rest]]
-	- [[Long Rest]]
+	- [[Resting#Short Rest|Short Rest]]
+	- [[Resting#Long Rest|Long Rest]]
 - Misc
 	- [[Spell Scroll]]
 	- [[Death Saves]]

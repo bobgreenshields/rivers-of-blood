@@ -1,0 +1,4 @@
+ rm catacombs1.jpg
+ rm catacombs2.jpg
+ rm catacombs3.jpg
+ rm catacombs4.jpg

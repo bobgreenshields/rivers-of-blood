@@ -2,6 +2,7 @@
   "theme": "moonstone",
   "accentColor": "",
   "enabledCssSnippets": [
-    "dashboard"
+    "dashboard",
+    "red-italics"
   ]
 }

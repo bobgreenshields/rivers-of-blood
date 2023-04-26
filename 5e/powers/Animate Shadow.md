@@ -16,9 +16,9 @@ tags: power
 |:---:|:---:|:---:|:---:|:---:|
 | `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.concentration` |
 
-The target's shadow comes to life and starts to strangle them.  Auto 1d6 of bludgeoning damage each round. 
+The target's shadow comes to life and starts to strangle them.  *Auto 1d6* of bludgeoning damage each round. 
 
-If the target uses both hands they can grapple the shadow inflicting 1 point of damage and removing any damage to themselves.
+If the target uses both hands they can grapple the shadow inflicting 1 point of damage and preventing any damage to themselves.
 
 Radiant and Silvered/Magical Bludgeoning, Piercing and Slashing do normal damage any other type does just 1 point per hit/spell.
 

@@ -1,5 +1,6 @@
 ---
 cssclass: dashboard
+tags: screen
 ---
 # Fallcrest
 - Locations

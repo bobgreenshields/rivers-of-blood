@@ -16,6 +16,6 @@ tags: power
 |:---:|:---:|:---:|:---:|:---:|
 | `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.concentration` |
 
-Cast on the weapon of an ally it adds +2 to their attack rolls and 1d6 of Fire (or Necrotic damage) to their next hit.  The effect expires when the weapon hits or the caster loses concentration.
+Cast on the weapon of an ally it *adds +2* to their attack rolls and *1d6 damage* Fire (or Necrotic) to their next hit.  The effect expires when the weapon hits or the caster loses concentration.
 
 Can be cast without concentration but the effect will expire at the end of the target's turn even if they do not hit.
