@@ -45,13 +45,16 @@ Patchy fog is
 | 1 | eight stick men hanging in front of a crude dried blood symbol |
 | 2 | patch of blood on the ground |
 | 3 | 2 Priests + 2 cultists + 2 initiates |
-| 4 | Za Vorgetsk (not a cultist) |
+| 4 | [[Za Vorgetsk]] and 3 cultists |
 | 5 | Rustling in the bushes, dogs fighting over a length of entrails |
 | 6 | Carved chaos runes on a tree trunk |
-| 7 | Alchemist + Zlatan + 2 Cultists |
-| 8 | 2 initiates carrying bloated skins full of blood |
-| 9 | A strung up corpse |
-| 10-20 | Priest + `dice: 1d5` cultists dragging [[Kidef Bodz]] |
+| 7-9 | Alchemist + Zlatan + 2 Cultists |
+| 10 | 2 initiates carrying bloated skins full of blood |
+| 11-12 | A strung up corpse |
+| 13-14 | [[Damiena Thorn]] + `dice:1d4-1` cultists |
+| 15-16 | [[Rudra Thorn]] |
+| 17-18 | [[Kidef Bodz]] on his own |
+| 19-20 | Priest + `dice: 1d5` cultists dragging [[Kidef Bodz]] |
 
 ^wandering
 
