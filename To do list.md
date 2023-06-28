@@ -19,6 +19,9 @@
 - Improve wight loot
 	- javelin of lightning
 	- more healing potions
+- add spells to obsidian
+	- healing word
+	- healing spirit
 [[to-do-hadleys-haven.pdf]]
 - [ ] Malerakas will not give up on the sword
 	- [ ] he knows they have it

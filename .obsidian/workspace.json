@@ -36,10 +36,36 @@
           {
             "id": "d7de0f33cba523f3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Hadleys Haven Screen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3f269931843990cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e/Cantrips.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5f9dda92aedb850e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e/Lvl 1 spells.md",
                 "mode": "preview",
                 "source": true
               }
@@ -153,12 +179,17 @@
   },
   "active": "18713a0e67d8515d",
   "lastOpenFiles": [
+    "5e/Lvl 1 spells.md",
     "Hadleys Haven Screen.md",
+    "5e/Cantrips.md",
+    "5e/spells/Mold Earth.md",
+    "5e/spells/Fire Bolt.md",
+    "DM Screen.md",
+    "To do list.md",
     "locs/Hadley's Haven.md",
     "Catacombs Screen.md",
     "encounters/Catacomb Temple.md",
     "npcs/Sergeant Greruga.md",
-    "To do list.md",
     "Haven Flow.canvas",
     "Loot.md",
     "npcs/Za Vorgetsk.md",
@@ -187,11 +218,6 @@
     "5e/powers/Sword of Khorne.md",
     "5e/powers/Great Leap.md",
     "5e/Weapons.md",
-    "5e/Vision and Light.md",
-    "5e/Shove.md",
-    "5e/Powers.md",
-    "5e/Lists.md",
-    "5e/Dodge.md",
     "assets/to-do-hadleys-haven.pdf",
     "assets/clockwork-warden.png",
     "5e/powers",

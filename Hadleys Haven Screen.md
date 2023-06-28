@@ -15,10 +15,18 @@ tags: screen
 >>#### Encounters
 >>`dice: [[Hadley's Haven#^wandering]]`
 >
->>[!summary]- NPCs Rules
+>>[!summary]- Rules
+>>- [[Death Saves]]
+>>- [[Resting#Short Rest]]
+>>- [[Cantrips]]
+>>- [[Lvl 1 spells]]
+>>- [[Lvl 2 spells]]
+>
+>>[!summary]- NPCs
 >>- [[Kidef Bodz]]
 >>- [[Rudra Thorn]]
 >>- [[Damiena Thorn]]
+>>- [[Za Vorgetsk]]
 >>- [[Hadley's Haven]]
 >
 
