@@ -1,6 +1,6 @@
 - must be on your spell list
 - if level too high
-	- make a check using your spellcasting ability
+	- make a check using your **spellcasting ability**
 	- do **not** add prof bonus
 	- DC 10 + spell level
 

@@ -7,6 +7,7 @@ tags: encounter
 ### Cast
 - [[Malerakas Xandax]] Cult High Priest
 - 3 Mercenaries [[Guard]] (Guard2 in monster cards)
+- 3 Dwarven Mercs 22ish HP AC 14 Spears Co-ord attack (see Hobgob warrior)
 - 3 archers [[#Low lvl rogue]]
 - 4 diggers with shovels and torches
 - one master earthworker with [[Mold Earth]] cantrip
@@ -18,7 +19,7 @@ tags: encounter
 - [[Potion of Greater Healing]]
 - `dice: 3d6 +50`  gp
 - `dice: 5d6`  sp
-- one has a gem in his boot `dice: [[Loot tables#^50gp-gemstones]]`
+- one has a  50gp gem in his boot `dice: [[Loot tables#^50gp-gemstones]]`
 
 ### The plan
 

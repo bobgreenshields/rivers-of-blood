@@ -3,6 +3,8 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "dashboard",
-    "red-italics"
+    "red-italics",
+    "columns",
+    "MCL-Wide-Views"
   ]
 }

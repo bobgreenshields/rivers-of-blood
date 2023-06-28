@@ -3,6 +3,7 @@ source:
 monster: 
 cr: 
 concentration: ❌✅
+action: Action
 duration: "Instant"
 range: 60ft
 range_ft: 60
@@ -12,7 +13,7 @@ save: None
 tags: power
 ---
 
-| **Range** | **Area** | **Duration** | **Save** | **Concentration** |
-|:---:|:---:|:---:|:---:|:---:|
-| `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.concentration` |
+| **Action** | **Range** | **Area** | **Duration** | **Save** | **Concentration** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| `=this.action` | `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.concentration` |
 

@@ -1,6 +1,6 @@
 ## Human
 #### Male
-- [ ] Kidef Bodz
+- [x] Kidef Bodz
 - [ ] Glam Glevosk
 - [x] Vlosvar Greruga
 - [ ] Vartil Meldume
@@ -17,7 +17,7 @@
 - [ ] Mahman Cushei
 - [ ] Ahmum Bhanim
 - [ ] Gustav Hastu
-- [ ] Zoran Hastu - the cudgel
+- [x] Zoran Hastu - the cudgel
 - [ ] Ryland Runetoe
 - [x] Brayton Biltram
 - [ ] Tirian Mirthscribe
@@ -39,10 +39,10 @@
 - [ ] Sophe Bendrahk - card
 - [ ] Vivamvish Uzinorko - card
 - [x] Tolra Kask
-- [ ] Za Vorgetsk
+- [x] Za Vorgetsk
 - [x] Yindrevi Ruvravrivzu
 - [x] Sara Taryamre
-- [ ] Rudra Hyelmuvre
+- [x] Rudra Hyelmuvre
 - [ ] Zanepeih Boker
 - [ ] Zeiveh Rader
 - [ ] Nozzizzel Cragmaw

@@ -10,7 +10,7 @@ First stab at a structure for the nodes.
 - Silversmith asks them to retreive a family heirloom with the [[Cudgel's Salt | salt wagon]]
 	- it's late
 	- and it's coming from the [[Warmheart Waystation | waystation]]
-	- it's not an heirloom at all , it's the [[Bloodletter sword]]
+	- it's not an heirloom at all , it's the [[Crimson Tide]]
 - Reward and ownership of loot for clearing out the manticore
 	- should appeal to Bryn
 	- a note from Bergen Biltom to find his son who was searching for the beast

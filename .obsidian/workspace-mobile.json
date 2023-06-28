@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "667c819bdf97cc5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91c89d9324d9ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d397fe6bd796d437",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catacombs Screen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7760106c783a75c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hadleys Haven Screen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4e9ca4a9180a7786",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Haven Flow.canvas",
+                "viewState": {
+                  "x": -264.8646723809489,
+                  "y": -247.13096725140255,
+                  "zoom": -0.916670943082303
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28745dd073ff27f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4d45420267296cb4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c7c9a049811c2b1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Flow",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "16bd35bf618ebbb5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c3cc897e317c4c3b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4d32a9184fd51674",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Haven Flow.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "4e9ca4a9180a7786",
+  "lastOpenFiles": [
+    "Hadleys Haven Screen.md",
+    "5e/Armour.md",
+    "5e/Ability Score Modifiers.md",
+    "Haven Flow.canvas",
+    "5e/Weapons.md",
+    "Information flowchart.md",
+    "encounters/Unearthing Crimson Tide.md",
+    "npcs/Kidef Bodz.md",
+    "locs/Hadley's Haven.md",
+    "5e/conditions/restrained.md",
+    "5e/Spell Scroll.md",
+    "5e/Recharge.md",
+    "5e/Shove.md",
+    "5e/Vision and Light.md",
+    "5e/conditions/blinded.md",
+    "Catacombs Screen.md",
+    "encounters/Catacomb Temple.md",
+    "5e/spells/Mage Armour.md",
+    "Excalidraw/Drawing 2023-06-19 16.18.53.excalidraw.md",
+    "npcs/Sergeant Greruga.md",
+    "Excalidraw",
+    "npcs/Malerakas Xandax.md",
+    "npcs/Gakrern Tallore.md",
+    "npcs/Deacon Dasqusti.md",
+    "Vaddh akar.md",
+    "discord/sources/The Piazza.md",
+    "discord/sources/Shadow on Fallcrest.md",
+    "discord/sources/rpg fandom.md"
+  ]
+}

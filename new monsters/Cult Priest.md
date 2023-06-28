@@ -16,3 +16,4 @@ tags: monster
 TABLE range AS Range, save AS Save, concentration AS Concen, level AS Lvl FROM (#power or #spell) and -"templates"
 WHERE econtains(this.powers, name)
 ```
+

@@ -15,10 +15,10 @@
   "defaultFace": 100,
   "renderer": false,
   "renderAllDice": false,
-  "renderTime": 2000,
+  "renderTime": 50,
   "diceColor": "#202020",
   "textColor": "#ffffff",
-  "showLeafOnStartup": true,
+  "showLeafOnStartup": false,
   "showDice": true,
   "round": "None"
 }

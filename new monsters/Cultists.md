@@ -1,4 +1,8 @@
 Cultists are all about drawing as much blood as possible (doing damage) and then going down fast in an extravagantly gory fashion.
+### Cultists
+![[cultist.pdf]]
+### Cult Priest
+![[cult-priest.pdf]]
 ### Priests
 
 Maybe have several templates, is that different functions?  Maybe a bit like the different roles in X-Com.

@@ -13,6 +13,9 @@ tags: screen
 	- [[catacombs1.jpg|Large pillars]]
 	- [[catacombs3.jpg|Medium]]
 	- [[catacombs2-cr.jpg|small]]
+	- `dice: [[Lists#^storage-items]]`
+	-  `dice: [[Hadley's Haven#^H-day]]`
+	-  `dice: [[Hadley's Haven#^H-night]]`
 # Rules
 - Resting
 	- [[Resting#Short Rest|Short Rest]]

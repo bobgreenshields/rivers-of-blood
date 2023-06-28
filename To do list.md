@@ -1,7 +1,8 @@
 ### Items for last session
 
 - fireworm token
-- che
+- heart swarm tokens
+- Grimm brothers tokens
 
 [[to-do-hadleys-haven.pdf]]
 - [ ] Malerakas will not give up on the sword
