@@ -39,14 +39,11 @@
             "id": "4e9ca4a9180a7786",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Haven Flow.canvas",
-                "viewState": {
-                  "x": -264.8646723809489,
-                  "y": -247.13096725140255,
-                  "zoom": -0.916670943082303
-                }
+                "file": "encounters/Unearthing Crimson Tide.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -76,7 +73,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Flow",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +91,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "right": {
     "id": "c3cc897e317c4c3b",
@@ -106,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Haven Flow.canvas",
+            "file": "encounters/Unearthing Crimson Tide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,13 +132,15 @@
   },
   "active": "4e9ca4a9180a7786",
   "lastOpenFiles": [
+    "To do list.md",
+    "encounters/Unearthing Crimson Tide.md",
+    "test.md",
+    "Haven Flow.canvas",
     "Hadleys Haven Screen.md",
     "5e/Armour.md",
     "5e/Ability Score Modifiers.md",
-    "Haven Flow.canvas",
     "5e/Weapons.md",
     "Information flowchart.md",
-    "encounters/Unearthing Crimson Tide.md",
     "npcs/Kidef Bodz.md",
     "locs/Hadley's Haven.md",
     "5e/conditions/restrained.md",
@@ -160,8 +159,6 @@
     "npcs/Gakrern Tallore.md",
     "npcs/Deacon Dasqusti.md",
     "Vaddh akar.md",
-    "discord/sources/The Piazza.md",
-    "discord/sources/Shadow on Fallcrest.md",
-    "discord/sources/rpg fandom.md"
+    "discord/sources/The Piazza.md"
   ]
 }

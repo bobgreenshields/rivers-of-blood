@@ -1,3 +1,4 @@
 *.swp
 .obsidian/workspace
 .obsidian/graph.json
+.obsidian/workspace-mobile.json
