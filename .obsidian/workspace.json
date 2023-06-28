@@ -4,71 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c8a3303d4d4988",
+        "id": "71240f60b29b0dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "fd89d4651d9c985a",
+            "id": "cf23433f9a5238cd",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e/Ability Score Modifiers.md",
+                "file": "DM Screen.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "6027180cb7cfe0ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5e/Weapons.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "51299d36352d124e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haven Alarm.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "203681d93dc943aa",
+            "id": "18713a0e67d8515d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "To do list.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "b4c0fe54bc5b2743",
+            "id": "d7de0f33cba523f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e/Armour.md",
+                "file": "Hadleys Haven Screen.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "short",
+                "query": "spirit ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +85,7 @@
             }
           },
           {
-            "id": "7a7e8de13f28b295",
+            "id": "40c3600be08759eb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5110321044922,
-    "collapsed": true
+    "width": 293.5110321044922
   },
   "right": {
     "id": "f811ab71096c6d93",
@@ -147,7 +124,7 @@
             }
           },
           {
-            "id": "4f3e52d13d8b82b6",
+            "id": "50f228f458ad5634",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -174,51 +151,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "203681d93dc943aa",
+  "active": "18713a0e67d8515d",
   "lastOpenFiles": [
-    "Haven Flow.canvas",
-    "npcs/Malerakas Xandax.md",
-    "npcs/Gakrern Tallore.md",
-    "Haven Alarm.md",
-    "npcs/Za Vorgetsk.md",
-    "Za Vorgetsk.md",
-    "Names.md",
-    "5e/Monster stats by CR.md",
-    "5e/Weapons.md",
-    "5e/spells/Mage Armour.md",
-    "5e/Armour.md",
-    "5e/Ability Score Modifiers.md",
-    "npcs/Amara Azaer.md",
-    "npcs/Rudra Thorn.md",
-    "5e/potions/Potion of Healing.md",
-    "Berserker.md",
-    "npcs/Kidef Bodz.md",
-    "locs/Hadley's Haven.md",
     "Hadleys Haven Screen.md",
-    "encounters/Unearthing Crimson Tide.md",
-    "5e/potions list.md",
-    "5e/potions/Potion of Poison.md",
+    "locs/Hadley's Haven.md",
+    "Catacombs Screen.md",
     "encounters/Catacomb Temple.md",
-    "Party loot resources.md",
-    "encounters/Burial Chamber.md",
-    "Catacombs.md",
-    "Excalidraw",
-    "assets/cult-priest.pdf",
-    "assets/cultist.pdf",
-    "assets/gelatinous-cube-stats.png",
-    "assets/cult-high-priest-2.pdf",
+    "npcs/Sergeant Greruga.md",
+    "To do list.md",
+    "Haven Flow.canvas",
+    "Loot.md",
+    "npcs/Za Vorgetsk.md",
+    "npcs/Rudra Thorn.md",
+    "npcs/Kidef Bodz.md",
+    "npcs/Damiena Thorn.md",
+    "new monsters/Wight.md",
+    "new monsters/Ghoul.md",
+    "new monsters/Beetle Swarm.md",
+    "items/Crimson Tide.md",
     "assets/wight.jpg",
-    "assets/catacombs1.jpg",
-    "assets/catacombs3-cr.jpg",
-    "assets/catacombs3.jpg",
-    "assets/catacombs4.jpg",
-    "assets/catacombs2-cr.jpg",
-    "assets/210925-floorplan-tiles-2.jpg",
-    "assets/catacombs1-cr.jpg",
-    "assets/ghoul.jpg",
-    "assets/proc.txt~",
     "assets/proc.txt",
+    "assets/ghoul.jpg",
+    "assets/cultist.pdf",
+    "assets/cult-priest.pdf",
+    "assets/catacombs4.jpg",
+    "assets/catacombs4-cr.jpg",
+    "assets/catacombs3.jpg",
+    "assets/catacombs3-cr.jpg",
+    "assets/catacombs2-cr.jpg",
+    "assets/catacombs1.jpg",
+    "assets/catacombs1-cr.jpg",
+    "Party loot resources.md",
+    "Haven Alarm.md",
+    "Berserker.md",
+    "5e/powers/Sword of Khorne.md",
+    "5e/powers/Great Leap.md",
+    "5e/Weapons.md",
+    "5e/Vision and Light.md",
+    "5e/Shove.md",
+    "5e/Powers.md",
+    "5e/Lists.md",
+    "5e/Dodge.md",
     "assets/to-do-hadleys-haven.pdf",
+    "assets/clockwork-warden.png",
     "5e/powers",
     "5e/monsters"
   ]

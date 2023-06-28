@@ -3,7 +3,22 @@
 - fireworm token
 - heart swarm tokens
 - Grimm brothers tokens
-
+- craft the stockade
+	- put it against rock walls on 2 sides
+- craft log cabin
+- craft temple area
+- craft more rocks
+- craft more trees
+- buy black foam core
+	- make wooden floor tiles
+	- make some dungeon tiles
+- cards
+	- high priestess
+	- heart swarm
+	- Gakrern
+- Improve wight loot
+	- javelin of lightning
+	- more healing potions
 [[to-do-hadleys-haven.pdf]]
 - [ ] Malerakas will not give up on the sword
 	- [ ] he knows they have it
