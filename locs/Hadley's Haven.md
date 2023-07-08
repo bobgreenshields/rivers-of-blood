@@ -45,10 +45,9 @@ Patchy fog is
 | 1 | eight stick men hanging in front of a crude dried blood symbol |
 | 2 | patch of blood on the ground |
 | 3 | 2 Priests + 2 cultists + 2 initiates |
-| 4 | [[Za Vorgetsk]] and 3 cultists |
-| 5 | Rustling in the bushes, dogs fighting over a length of entrails |
-| 6 | Carved chaos runes on a tree trunk |
-| 7-9 | Alchemist + Zlatan + 2 Cultists |
+| 4 | Rustling in the bushes, dogs fighting over a length of entrails |
+| 5 | Carved chaos runes on a tree trunk |
+| 6-9 | Alchemist + Zlatan + 2 Cultists |
 | 10 | 2 initiates carrying bloated skins full of blood |
 | 11-12 | A strung up corpse |
 | 13-14 | [[Damiena Thorn]] + `dice:1d4-1` cultists |
@@ -98,3 +97,61 @@ Patchy fog is
 | 9-12 | 2 woman + 2 initiate + `dice: 2d3` children |
 
 ^2H-night
+
+
+## Inhabitants
+
+- 128 members of the cult
+	- men and women
+- 38 Reavers
+- 9-11 Priests
+	- High Priestess
+	- 3 Prime tier
+	- 5-7 priests
+
+Many of the cultists will be out hunting and gathering
+
+At the sacrificial altar
+
+- High Priestess
+- Priest
+- 3-4 cultist guarding captives
+- 2 cultists at trail entrance
+- daytime 5-6 more guarding the sacrifice
+- Heart Swarms 2
+
+
+## Ritual Mound
+
+- 10 m high mound
+- one corner is a rocky outcrop
+- the rest scrub and grass
+- 2 guards visible on the rim
+- they watch over the trail up and
+- would see anyone climbing the grassy areas of the mount
+- another guard is on the outcrop
+- none of the guards can see the way up the outcrop
+- the central area has been cleared but
+- the periphery has long grass and small shrubs
+- movement can occasionally be noticed in the grass
+	- it's the heart swarms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

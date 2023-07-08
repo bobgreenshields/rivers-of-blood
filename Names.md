@@ -63,7 +63,7 @@
 - [ ] Dolgron Steelbraid
 - [ ] Gremgurn Lightkin
 - [ ] Gremdir Greatstorm
-- [ ] Armdram Madbreath
+- [x] Armdram Madbreath
 - [ ] Dolkuhm Keenroar
 - [ ] Khardek Lightblood
 - [ ] Umnur Strongbeard

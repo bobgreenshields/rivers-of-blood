@@ -3,11 +3,20 @@ aliases:
 name: Za Vorgetsk
 role: 
 location: [hh]
+powers: [ Kraken Arms ]
 tags: [npc]
 spell_code: 
 npc_code: 
 ---
 The priest prime who lives in and runs [[Hadley's Haven]]
+
+### Powers
+```dataview
+TABLE range AS Range, save AS Save, concentration AS Concen, level AS Lvl FROM (#power or #spell) and -"templates"
+WHERE econtains(this.powers, name)
+```
+
+
 
 #### Found in
 ```dataview

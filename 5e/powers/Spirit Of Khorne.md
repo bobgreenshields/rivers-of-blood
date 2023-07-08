@@ -18,16 +18,15 @@ tags: power
 
 ### Summary
 
+- 20 temp HP
+- one round to transform with no actions but gain temp HP at start of round
 - two attacks
 - +1d6 fire damage
-- 20 temp HP
 - 30 ft aggro rad
-- DC 15 Cha save at start of each turn
-- move to engage
-- make melee attack
-- on save
-	- can exit aggro radius
-	- disadv attacking others whilst in radius
+	- DC 12 Cha save at start of pc's turn
+	- move to engage
+	- make melee attack
+- save ends until next person possessed
 - when host killed 1 round to possess willing host in 60ft
  
 ### Description

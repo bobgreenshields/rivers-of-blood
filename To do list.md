@@ -1,6 +1,11 @@
 ### Items for last session
 
-- fireworm token
+- necroworm token (change from fireworm)
+- spell scroll cards for Flaming Sphere & Fog Cloud
+- magic item cards
+	- +1 arrows
+	- +3 Frost arrows (catacombs crypt)
+	- Thagbar's Thunder +1 Warhammer (block house)
 - heart swarm tokens
 - Grimm brothers tokens
 - craft the stockade

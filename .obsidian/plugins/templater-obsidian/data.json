@@ -29,6 +29,10 @@
     {
       "folder": "5e/powers",
       "template": "templates/power all.md"
+    },
+    {
+      "folder": "5e/spells",
+      "template": "templates/spell all.md"
     }
   ],
   "syntax_highlighting": true,

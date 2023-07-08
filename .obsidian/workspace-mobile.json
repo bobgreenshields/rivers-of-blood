@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d91c89d9324d9ecf",
+        "id": "dd1a38d22eb9db37",
         "type": "tabs",
         "children": [
           {
-            "id": "d397fe6bd796d437",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Catacombs Screen.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7760106c783a75c5",
+            "id": "fd4e057b93829c51",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -36,12 +22,24 @@
             }
           },
           {
-            "id": "4e9ca4a9180a7786",
+            "id": "fe85d981a63dbace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "encounters/Unearthing Crimson Tide.md",
+                "file": "npcs/Damiena Thorn.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b2c48b57a09c421b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e/Vision and Light.md",
                 "mode": "preview",
                 "source": true
               }
@@ -54,11 +52,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28745dd073ff27f8",
+    "id": "e7c63fd1da0eaed1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4d45420267296cb4",
+        "id": "2b5911faaeb325ef",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -68,7 +66,7 @@
         }
       },
       {
-        "id": "2c7c9a049811c2b1",
+        "id": "24a48dd83daa04d5",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -83,7 +81,7 @@
         }
       },
       {
-        "id": "16bd35bf618ebbb5",
+        "id": "510d20cdc2eefad5",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -91,19 +89,19 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "right": {
-    "id": "c3cc897e317c4c3b",
+    "id": "09cf9caa94831a04",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4d32a9184fd51674",
+        "id": "645a558b58caa3b9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "encounters/Unearthing Crimson Tide.md",
+            "file": "5e/Vision and Light.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,22 +128,28 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4e9ca4a9180a7786",
+  "active": "b2c48b57a09c421b",
   "lastOpenFiles": [
-    "To do list.md",
+    "Hadleys Haven Screen.md",
+    "npcs/Damiena Thorn.md",
+    "locs/Hadley's Haven.md",
+    "5e/spells/Entangle.md",
+    "5e/conditions/restrained.md",
+    "5e/Lvl 1 spells.md",
+    "5e/Lvl 2 spells.md",
+    "5e/spells/Flaming Sphere.md",
+    "5e/Recharge.md",
+    "DM Screen.md",
     "encounters/Unearthing Crimson Tide.md",
+    "To do list.md",
     "test.md",
     "Haven Flow.canvas",
-    "Hadleys Haven Screen.md",
     "5e/Armour.md",
     "5e/Ability Score Modifiers.md",
     "5e/Weapons.md",
     "Information flowchart.md",
     "npcs/Kidef Bodz.md",
-    "locs/Hadley's Haven.md",
-    "5e/conditions/restrained.md",
     "5e/Spell Scroll.md",
-    "5e/Recharge.md",
     "5e/Shove.md",
     "5e/Vision and Light.md",
     "5e/conditions/blinded.md",
@@ -153,12 +157,6 @@
     "encounters/Catacomb Temple.md",
     "5e/spells/Mage Armour.md",
     "Excalidraw/Drawing 2023-06-19 16.18.53.excalidraw.md",
-    "npcs/Sergeant Greruga.md",
-    "Excalidraw",
-    "npcs/Malerakas Xandax.md",
-    "npcs/Gakrern Tallore.md",
-    "npcs/Deacon Dasqusti.md",
-    "Vaddh akar.md",
-    "discord/sources/The Piazza.md"
+    "Excalidraw"
   ]
 }

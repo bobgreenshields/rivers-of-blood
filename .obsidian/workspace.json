@@ -25,11 +25,14 @@
             "id": "18713a0e67d8515d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "To do list.md",
-                "mode": "preview",
-                "source": true
+                "file": "Haven Flow.canvas",
+                "viewState": {
+                  "x": 394.97406058525644,
+                  "y": 78.81556204577157,
+                  "zoom": -0.2616126110593232
+                }
               }
             }
           },
@@ -53,26 +56,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e/Cantrips.md",
+                "file": "encounters/Unearthing Crimson Tide.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "5f9dda92aedb850e",
+            "id": "6e1d622a9b59a623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e/Lvl 1 spells.md",
+                "file": "Loot.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9d5e199039b124e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new monsters/Cult High Priestess.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0230db1263aaa380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e/powers/Kraken Arms.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1bce7e087c633add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Names.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do list.md",
+                "file": "Loot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,29 +216,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "18713a0e67d8515d",
+  "active": "6e1d622a9b59a623",
   "lastOpenFiles": [
-    "5e/Lvl 1 spells.md",
-    "Hadleys Haven Screen.md",
-    "5e/Cantrips.md",
-    "5e/spells/Mold Earth.md",
-    "5e/spells/Fire Bolt.md",
-    "DM Screen.md",
-    "To do list.md",
-    "locs/Hadley's Haven.md",
-    "Catacombs Screen.md",
-    "encounters/Catacomb Temple.md",
-    "npcs/Sergeant Greruga.md",
-    "Haven Flow.canvas",
-    "Loot.md",
+    "5e/powers/Berserker.md",
+    "5e/spells/Entangle.md",
+    "5e/spells/Healing Spirit.md",
+    "5e/spells/Revivify.md",
+    "5e/Spell Scroll.md",
+    "5e/spells/Magic Missile.md",
+    "5e/spells/Fog Cloud.md",
+    "5e/spells/Flaming Sphere.md",
+    "encounters/Unearthing Crimson Tide.md",
+    "5e/powers/Kraken Arms.md",
     "npcs/Za Vorgetsk.md",
-    "npcs/Rudra Thorn.md",
-    "npcs/Kidef Bodz.md",
-    "npcs/Damiena Thorn.md",
-    "new monsters/Wight.md",
-    "new monsters/Ghoul.md",
-    "new monsters/Beetle Swarm.md",
-    "items/Crimson Tide.md",
+    "5e/Shove.md",
+    "5e/Monster stats by CR.md",
+    "5e/spells/Mage Armour.md",
+    "5e/spells/Bane.md",
+    "5e/spells/Toll the Dead.md",
+    "5e/spells/Evards Black Tentacles.md",
+    "To do list.md",
+    "encounters/Catacomb Temple.md",
+    "5e/Armour.md",
+    "locs/Hadley's Haven.md",
+    "new monsters/Cult High Priestess.md",
+    "5e/powers/Death Armour.md",
+    "5e/spells/Shield.md",
+    "npcs/Malerakas Xandax.md",
+    "mal.md",
+    "Haven Flow.canvas",
+    "assets/hadleys-haven-map.pdf",
+    "ass",
     "assets/wight.jpg",
     "assets/proc.txt",
     "assets/ghoul.jpg",
@@ -212,12 +259,6 @@
     "assets/catacombs2-cr.jpg",
     "assets/catacombs1.jpg",
     "assets/catacombs1-cr.jpg",
-    "Party loot resources.md",
-    "Haven Alarm.md",
-    "Berserker.md",
-    "5e/powers/Sword of Khorne.md",
-    "5e/powers/Great Leap.md",
-    "5e/Weapons.md",
     "assets/to-do-hadleys-haven.pdf",
     "assets/clockwork-warden.png",
     "5e/powers",
