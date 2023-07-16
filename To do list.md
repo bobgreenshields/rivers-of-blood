@@ -1,19 +1,75 @@
 ### Items for last session
 
-- necroworm token (change from fireworm)
-- spell scroll cards for Flaming Sphere & Fog Cloud
-- magic item cards
-	- +1 arrows
-	- +3 Frost arrows (catacombs crypt)
-	- Thagbar's Thunder +1 Warhammer (block house)
-- heart swarm tokens
-- Grimm brothers tokens
-- craft the stockade
+- [ ] monster cards
+	- [ ] wight
+	- [ ] ghouls
+	- [ ] beetle swarms
+	- [ ] cultists
+	- [ ] initiates
+	- [ ] priests
+	- [ ] malerakas
+	- [ ] alchemist
+	- [ ] zlatan
+	- [ ] Grimm brothers
+	- [ ] bowmen
+	- [ ] mercenaries / guards
+	- [ ] heart swarm
+	- [ ] half orc sergeant
+	- [ ] necroworm
+- [ ] monster tokens
+	- [ ] Grimm brothers
+	- [ ] necroworm
+	- [ ] heart swarm
+	- [ ] wight
+	- [ ] ghouls
+	- [ ] beetle swarms
+	- [ ] cultists
+	- [ ] initiates
+	- [ ] priests
+	- [ ] malerakas
+	- [ ] alchemist
+	- [ ] zlatan
+	- [ ] bowmen
+	- [ ] mercenaries / guards
+	- [ ] half orc sergeant
+- [ ] init cards
+	- [ ] wight
+	- [ ] ghouls
+	- [ ] beetle swarms
+	- [ ] cultists
+	- [ ] initiates
+	- [ ] priests
+	- [ ] malerakas
+	- [ ] alchemist
+	- [ ] zlatan
+	- [ ] Grimm brothers
+	- [ ] bowmen
+	- [ ] mercenaries / guards
+	- [ ] heart swarm
+	- [ ] half orc sergeant
+	- [ ] necroworm
+- [ ] magic item cards
+	- [ ] +1 arrows
+	- [ ]  +3 Frost arrows (catacombs crypt)
+	- [ ] [[Potion of Fire Breath]] where do we put this?
+	- [ ] Thagbar's Thunder +1 Warhammer (block house)
+	- [ ] spell scrolls
+		- [ ] Flaming Sphere
+		- [ ] Fog Cloud
+		- [ ] make some spell crystals
+- [ ] craft
+  - [ ] craft the stockade
 	- put it against rock walls on 2 sides
-- craft log cabin
-- craft temple area
-- craft more rocks
-- craft more trees
+	- [ ] craft log cabin
+	- [ ] craft temple area
+	- [ ]  craft more rocks
+	- [ ]  craft more trees
+	- [ ] interior doors and frames
+		- how to make a thin door?
+		- super thin plasticard covered in balsa maybe?
+	- [ ] interior walls
+		- [ ] check out width of balsa, card, balsa sandwich
+	- [ ] wooden floor tiles on black foam core
 - buy black foam core
 	- make wooden floor tiles
 	- make some dungeon tiles

@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loot.md",
-                "mode": "preview",
+                "file": "To do list.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -157,7 +157,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loot.md",
+                "file": "To do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,6 +219,11 @@
   },
   "active": "6e1d622a9b59a623",
   "lastOpenFiles": [
+    "encounters/Unearthing Crimson Tide.md",
+    "To do list.md",
+    "new monsters/Cult High Priestess.md",
+    "5e/powers/Breath of Khorne.md",
+    "Loot.md",
     "5e/powers/Berserker.md",
     "5e/spells/Entangle.md",
     "5e/spells/Healing Spirit.md",
@@ -226,7 +232,6 @@
     "5e/spells/Magic Missile.md",
     "5e/spells/Fog Cloud.md",
     "5e/spells/Flaming Sphere.md",
-    "encounters/Unearthing Crimson Tide.md",
     "5e/powers/Kraken Arms.md",
     "npcs/Za Vorgetsk.md",
     "5e/Shove.md",
@@ -235,15 +240,11 @@
     "5e/spells/Bane.md",
     "5e/spells/Toll the Dead.md",
     "5e/spells/Evards Black Tentacles.md",
-    "To do list.md",
     "encounters/Catacomb Temple.md",
     "5e/Armour.md",
     "locs/Hadley's Haven.md",
-    "new monsters/Cult High Priestess.md",
     "5e/powers/Death Armour.md",
     "5e/spells/Shield.md",
-    "npcs/Malerakas Xandax.md",
-    "mal.md",
     "Haven Flow.canvas",
     "assets/hadleys-haven-map.pdf",
     "ass",
