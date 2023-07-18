@@ -69,42 +69,6 @@
               "type": "markdown",
               "state": {
                 "file": "To do list.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9d5e199039b124e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new monsters/Cult High Priestess.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0230db1263aaa380",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5e/powers/Kraken Arms.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1bce7e087c633add",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Names.md",
                 "mode": "preview",
                 "source": true
               }
@@ -162,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5110321044922
+    "width": 293.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "f811ab71096c6d93",
@@ -219,9 +184,12 @@
   },
   "active": "6e1d622a9b59a623",
   "lastOpenFiles": [
-    "encounters/Unearthing Crimson Tide.md",
-    "To do list.md",
     "new monsters/Cult High Priestess.md",
+    "5e/powers/Kraken Arms.md",
+    "Names.md",
+    "To do list.md",
+    "5e/Weapons.md",
+    "encounters/Unearthing Crimson Tide.md",
     "5e/powers/Breath of Khorne.md",
     "Loot.md",
     "5e/powers/Berserker.md",
@@ -232,7 +200,6 @@
     "5e/spells/Magic Missile.md",
     "5e/spells/Fog Cloud.md",
     "5e/spells/Flaming Sphere.md",
-    "5e/powers/Kraken Arms.md",
     "npcs/Za Vorgetsk.md",
     "5e/Shove.md",
     "5e/Monster stats by CR.md",
@@ -243,8 +210,6 @@
     "encounters/Catacomb Temple.md",
     "5e/Armour.md",
     "locs/Hadley's Haven.md",
-    "5e/powers/Death Armour.md",
-    "5e/spells/Shield.md",
     "Haven Flow.canvas",
     "assets/hadleys-haven-map.pdf",
     "ass",

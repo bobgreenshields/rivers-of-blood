@@ -36,15 +36,17 @@
 	- [ ] wight
 	- [ ] ghouls
 	- [ ] beetle swarms
-	- [ ] cultists
-	- [ ] initiates
-	- [ ] priests
-	- [ ] malerakas
-	- [ ] alchemist
-	- [ ] zlatan
-	- [ ] Grimm brothers
-	- [ ] bowmen
-	- [ ] mercenaries / guards
+	- [ ] cultists - check
+	- [ ] initiates - check
+	- [ ] priests - check
+	- [ ] high priestess - amend
+	- [ ] Za Vogetsk
+	- [ ] malerakas - photo only
+	- [ ] alchemist - amend
+	- [ ] zlatan - amend
+	- [ ] Grimm brothers - photo only
+	- [x] bowmen
+	- [x] mercenaries / guards
 	- [ ] heart swarm
 	- [ ] half orc sergeant
 	- [ ] necroworm
