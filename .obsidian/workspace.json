@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "3f269931843990cc",
+            "id": "18aa1393bafc3e14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,21 +61,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "6e1d622a9b59a623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To do list.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To do list.md",
+                "file": "encounters/Unearthing Crimson Tide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,14 +170,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e1d622a9b59a623",
+  "active": "18aa1393bafc3e14",
   "lastOpenFiles": [
+    "To do list.md",
+    "Hadleys Haven Screen.md",
+    "encounters/Unearthing Crimson Tide.md",
+    "5e/Resting.md",
+    "new monsters/Heart Crab swarm.md",
     "new monsters/Cult High Priestess.md",
     "5e/powers/Kraken Arms.md",
     "Names.md",
-    "To do list.md",
     "5e/Weapons.md",
-    "encounters/Unearthing Crimson Tide.md",
     "5e/powers/Breath of Khorne.md",
     "Loot.md",
     "5e/powers/Berserker.md",
@@ -207,9 +198,6 @@
     "5e/spells/Bane.md",
     "5e/spells/Toll the Dead.md",
     "5e/spells/Evards Black Tentacles.md",
-    "encounters/Catacomb Temple.md",
-    "5e/Armour.md",
-    "locs/Hadley's Haven.md",
     "Haven Flow.canvas",
     "assets/hadleys-haven-map.pdf",
     "ass",

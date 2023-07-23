@@ -1,55 +1,55 @@
 ### Items for last session
 
 - [ ] monster cards
-	- [ ] wight
-	- [ ] ghouls
-	- [ ] beetle swarms
-	- [ ] cultists
-	- [ ] initiates
-	- [ ] priests
-	- [ ] malerakas
-	- [ ] alchemist
-	- [ ] zlatan
-	- [ ] Grimm brothers
-	- [ ] bowmen
-	- [ ] mercenaries / guards
-	- [ ] heart swarm
+	- [x] wight
+	- [x] ghouls
+	- [x] beetle swarms
+	- [x] cultists
+	- [x] initiates
+	- [x] priests
+	- [x] malerakas
+	- [x] alchemist
+	- [x] zlatan
+	- [x] Grimm brothers
+	- [x] bowmen
+	- [ ] mercenaries / guards - maybe redo as odg
+	- [x] [[Heart Crab swarm]]
 	- [ ] half orc sergeant
-	- [ ] necroworm
+	- [x] necroworm
 - [ ] monster tokens
 	- [ ] Grimm brothers
 	- [ ] necroworm
 	- [ ] heart swarm
-	- [ ] wight
-	- [ ] ghouls
-	- [ ] beetle swarms
-	- [ ] cultists
-	- [ ] initiates
-	- [ ] priests
-	- [ ] malerakas
+	- [x] wight
+	- [x] ghouls
+	- [x] beetle swarms
+	- [x] cultists
+	- [x] initiates
+	- [x] priests
+	- [x] malerakas
 	- [ ] alchemist
 	- [ ] zlatan
 	- [ ] bowmen
-	- [ ] mercenaries / guards
-	- [ ] half orc sergeant
+	- [x] mercenaries / guards
+	- [x] half orc sergeant
 - [ ] init cards
-	- [ ] wight
-	- [ ] ghouls
-	- [ ] beetle swarms
-	- [ ] cultists - check
-	- [ ] initiates - check
-	- [ ] priests - check
-	- [ ] high priestess - amend
-	- [ ] Za Vogetsk
-	- [ ] malerakas - photo only
-	- [ ] alchemist - amend
-	- [ ] zlatan - amend
-	- [ ] Grimm brothers - photo only
+	- [x] wight
+	- [x] ghouls
+	- [x] beetle swarms
+	- [x] cultists - check
+	- [x] initiates - check
+	- [x] priests - check
+	- [x] high priestess - amend
+	- [x] Za Vogetsk
+	- [x] malerakas
+	- [x] alchemist - amend
+	- [x] zlatan - amend
+	- [x] Grimm brothers
 	- [x] bowmen
 	- [x] mercenaries / guards
-	- [ ] heart swarm
-	- [ ] half orc sergeant
-	- [ ] necroworm
+	- [x] heart swarm
+	- [x] half orc sergeant
+	- [x] necroworm
 - [ ] magic item cards
 	- [ ] +1 arrows
 	- [ ]  +3 Frost arrows (catacombs crypt)
