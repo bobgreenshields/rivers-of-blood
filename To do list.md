@@ -17,9 +17,9 @@
 	- [ ] half orc sergeant
 	- [x] necroworm
 - [ ] monster tokens
-	- [ ] Grimm brothers
-	- [ ] necroworm
-	- [ ] heart swarm
+	- [x] Grimm brothers
+	- [x] necroworm
+	- [x] heart swarm
 	- [x] wight
 	- [x] ghouls
 	- [x] beetle swarms
@@ -27,9 +27,9 @@
 	- [x] initiates
 	- [x] priests
 	- [x] malerakas
-	- [ ] alchemist
-	- [ ] zlatan
-	- [ ] bowmen
+	- [x] alchemist
+	- [x] zlatan
+	- [x] bowmen
 	- [x] mercenaries / guards
 	- [x] half orc sergeant
 - [ ] init cards
@@ -56,9 +56,9 @@
 	- [ ] [[Potion of Fire Breath]] where do we put this?
 	- [ ] Thagbar's Thunder +1 Warhammer (block house)
 	- [ ] spell scrolls
-		- [ ] Flaming Sphere
-		- [ ] Fog Cloud
-		- [ ] make some spell crystals
+		- [x] Flaming Sphere
+		- [x] Fog Cloud
+		- [x] make some spell crystals
 - [ ] craft
   - [ ] craft the stockade
 	- put it against rock walls on 2 sides
