@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd4e057b93829c51",
+            "id": "53c55da1ef8d8307",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,31 +22,57 @@
             }
           },
           {
-            "id": "fe85d981a63dbace",
+            "id": "73bd45d57204c130",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5e/powers/Animate Shadow.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "665be7033a03d29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npcs/Damiena Thorn.md",
+                "file": "Names.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "b2c48b57a09c421b",
+            "id": "f10540a7e4f94da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e/Vision and Light.md",
+                "file": "secrets/Abamuns Finger.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9f67cd754ab76133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon Web Pages.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -71,7 +97,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Grapple",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -101,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "5e/Vision and Light.md",
+            "file": "Dungeon Web Pages.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,35 +154,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b2c48b57a09c421b",
+  "active": "9f67cd754ab76133",
   "lastOpenFiles": [
+    "Names.md",
+    "secrets/Abamuns Finger.md",
+    "npcs/Rudra Thorn.md",
     "Hadleys Haven Screen.md",
-    "npcs/Damiena Thorn.md",
-    "locs/Hadley's Haven.md",
-    "5e/spells/Entangle.md",
-    "5e/conditions/restrained.md",
-    "5e/Lvl 1 spells.md",
-    "5e/Lvl 2 spells.md",
-    "5e/spells/Flaming Sphere.md",
-    "5e/Recharge.md",
-    "DM Screen.md",
-    "encounters/Unearthing Crimson Tide.md",
-    "To do list.md",
-    "test.md",
-    "Haven Flow.canvas",
-    "5e/Armour.md",
-    "5e/Ability Score Modifiers.md",
-    "5e/Weapons.md",
-    "Information flowchart.md",
-    "npcs/Kidef Bodz.md",
-    "5e/Spell Scroll.md",
+    "5e/powers/Animate Shadow.md",
+    "Haven Outside.md",
     "5e/Shove.md",
-    "5e/Vision and Light.md",
-    "5e/conditions/blinded.md",
+    "5e/conditions/restrained.md",
+    "5e/conditions/grappled.md",
+    "Untitled 2.md",
+    "maps/hadleys-haven-buildings.jpg",
+    "5e/Monster stats by CR.md",
+    "maps/rivers-locales.jpg",
+    "maps/nentir-vale.png",
+    "maps/Fallcrest_overview.jpg",
+    "maps/nentir-vale-hex.png",
+    "5e/conditions/prone.md",
+    "Dungeon Web Pages.md",
+    "maps/hadleys-haven-map.pdf",
+    "Screens.md",
     "Catacombs Screen.md",
+    "5e/potions list.md",
+    "locs/Fallcrest.md",
+    "npcs/Bishop Taryamre.md",
+    "assets/catacombs3.jpg",
     "encounters/Catacomb Temple.md",
-    "5e/spells/Mage Armour.md",
-    "Excalidraw/Drawing 2023-06-19 16.18.53.excalidraw.md",
+    "5e/Cantrips.md",
+    "assets/catacombs1.jpg",
+    "assets/catacombs4.jpg",
+    "5e/potions/Potion of Heroism.md",
+    "locs/House of the Sun.md",
+    "npcs/Faren Markelhay.md",
+    "npcs/Rarim Chuv.md",
+    "locs/Tower of Waiting.md",
+    "Crimson Tide Screen.md",
+    "Haven Flow.canvas",
     "Excalidraw"
   ]
 }

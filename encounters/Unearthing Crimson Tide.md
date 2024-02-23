@@ -14,12 +14,23 @@ tags: encounter
 
 ### Loot
 #### Malerakas
+- [[Ring of the Ram]]
+- Amulet of Protection
+- 350 gp in gems 7x50 gp  `dice: [[Loot tables#^50gp-gemstones]]`
+- 85 gp
+- 120 sp
 
 #### Guards (each)
 - [[Potion of Greater Healing]]
-- `dice: 3d6 +50`  gp
+- `dice: 3d6+50`  gp
 - `dice: 5d6`  sp
 - one has a  50gp gem in his boot `dice: [[Loot tables#^50gp-gemstones]]`
+
+#### Dwarves (each)
+- Grimald +1 Shield
+- `dice: 3d6+5`  gp
+- `dice: 8d6`  sp
+
 
 ### The plan
 

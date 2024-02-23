@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Rudra
 name: Rudra Thorn
 role: 
 location: [hh]

@@ -1,0 +1,124 @@
+### Items for last session
+
+- necroworm token (change from fireworm)
+- spell scroll cards for Flaming Sphere & Fog Cloud
+- magic item cards
+	- [ ] +1 arrows
+	- [ ] +3 frost arrows
+	- [ ] +3 Frost arrows (catacombs crypt)
+	- Thagbar's Thunder +1 Warhammer (block house)
+- heart swarm tokens
+- Grimm brothers tokens
+- craft the stockade
+	- put it against rock walls on 2 sides
+- craft log cabin
+- craft temple area
+- craft more rocks
+- craft more trees
+- buy black foam core
+	- make wooden floor tiles
+	- make some dungeon tiles
+- cards
+	- high priestess
+	- heart swarm
+	- Gakrern
+- Improve wight loot
+	- javelin of lightning
+	- more healing potions
+- add spells to obsidian
+	- healing word
+	- healing spirit
+[[to-do-hadleys-haven.pdf]]
+- [ ] Malerakas will not give up on the sword
+	- [ ] he knows they have it
+	- [ ] someone was in the house
+		- [ ] items of moderate value left behind
+		- [ ] if they have another sword there are signs that it has been moved
+	- [ ] casts locate object
+	- [ ] finds sword
+	- [ ] needs to dig it up
+	- [ ] how do pcs find out that he is going to dig it up?
+- [ ] Malerakas puts the word out that he's after labourers
+- [ ] Karkix finds out
+- [ ] Encounter at sword burial site
+	- [ ] before they have a long rest
+	- [ ] he's expecting the party
+	- [ ] guys with missile weapons in cover
+	- [ ] mercenaries ready to fight - recycle the guards from the house
+	- [ ] maybe minions hiding ready to attack rear
+	- [ ] Malarakas casting spells
+ #### The Haven
+ - [ ] what do the minions know?
+	 - [ ] different for each minion type
+		 - [ ] maybe a small table of info for each minion type
+	 - [ ] know about the bloodletter?
+ - [ ] proforma [[Haven Encounters]]
+ - [ ] final encounter at the the sacrifice site
+	 - [ ] the bloodletter could be here
+ 
+#### lessons learned
+- [ ] more HP - all around!  Nearer the DMG table for CR
+- [ ] need to go through spell lists again, AOE spells
+- [ ] are the bosses going to be smart?
+- [ ] they will direct traffic
+- [ ] more minions (action economy)
+- [ ] greater clarity on information that the party knows
+- [ ] how do we encourage them to dig for info?
+
+### Previous sessions
+- [ ] Manticore den letter
+- [ ] PC level ups
+	- [ ] Kazendra
+		- [x] HP
+		- [x] Hit dice
+		- [x] spell slots
+		- [x] fey touched spells
+		- [ ] spell att. save DC
+	- [ ] Vix
+		- [x] HP
+		- [x] Hit dice
+		- [x] spell slots
+		- [x] fey touched spells
+		- [ ] spell att. save DC
+	- [x] Valum
+		- [x] HP
+		- [x] Hit dice
+		- [x] spell slots
+- [ ] other letters
+- [ ] Silversmith house
+- [ ] create a list of events for when party comes back to Fallcrest
+- [ ] items available in Fallcrest merchants
+- [ ] spec out some loot
+	- Blood spear - reduce to zero get 2d6 temp hp
+	- Ring of the ram (fails on d6?) 1d3 charges a day
+	- Seeker dart
+	- Ring protection
+	- [[Potion of Fire Breath]]
+	- +1 staff use charge 2d6 force (fails on d6)
+- [ ] give the martial characters magic weapons - manticores??
+- [ ] Cultist stats - magic combatants
+- [ ] Priest monk with minor magic
+	- disrupt ranged attack
+	- telegraphed attack from more than one priest
+		- chanting
+		- globe or circle begins to form on the ground
+		- shows aoe effect
+		- warp blast
+		- affects cult initiates but not full cultists
+- [ ] Priest add magic
+	- mist cloud (minor fog cloud)
+	- entangle effect
+- [x] the body with the manticore
+- [x] use updated Fallcrest map with 30, 31, 32 (new locations)
+- [x] do a Fallcrest map leaflet with useful locations - inns, alchemist etc 1794.9 x 2307.7 ft
+- [x] guard and rogue tokens
+- [x] warp spider tokens
+- [x] look up if gauntlets ogre strength are magic weapon for unarmed attack
+- [x] finalise warehouse plan (check shape on map)
+- [x] waystation scenarios (2 done, 1 left)
+- [x] Ravim Chuck info
+- [x] Alchemists house
+- [x] Skaven stats
+- [x] Rogue stats??? less important
+- [x] Townfolk images
+- [x] notes from town notice board

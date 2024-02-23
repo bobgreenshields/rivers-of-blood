@@ -21,6 +21,7 @@ tags: screen
 >>- [[Cantrips]]
 >>- [[Lvl 1 spells]]
 >>- [[Lvl 2 spells]]
+>>- [[Wildshape]]
 >
 >>[!summary]- NPCs
 >>- [[Kidef Bodz]]
@@ -69,6 +70,7 @@ tags: screen
 >>- Sword +11 1d8+9 `dice: 1d8+9`
 >
 >>[!note]- Rules
+>>- [[Spells]]
 >>- [[Death Saves]]
 >>- [[Shove]]
 >>- [[Dodge]]

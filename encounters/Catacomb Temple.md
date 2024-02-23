@@ -67,7 +67,9 @@ Light sucking gloom at the end of the corridor.
 Treasure in the family crypt
 
 - +1 arrows
-- 5 Frost arrows +3 and an additional 2d8 cold damage
+- 5 Arrows Rays of the Sun
+- 2 javelins of lightning
+
 
 #### Links to other nodes
 - staking out the temple

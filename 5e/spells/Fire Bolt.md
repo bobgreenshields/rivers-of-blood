@@ -7,6 +7,7 @@ duration: "Instant"
 level: 0
 range: 120ft
 range_ft: 120
+area: 
 name: Fire Bolt
 save: Ranged
 tags: spell
@@ -14,9 +15,9 @@ tags: spell
 
 # Fire Bolt
 
-| **Level** | **Casting Time** | **Range** | **Duration** | **Save** | **Components** | **Concentration** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 0 | 1 Action | 120ft | Instant | Ranged | V, S | ❌ |
+| **Level** | **Casting Time** | **Range** | **Area** | **Duration** | **Save** | **Components** | **Concentration** |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| `=this.level` | `=this.casting_time` | `=this.range` | `=this.area` | `=this.duration` | `=this.save` | `=this.components` | `=this.concentration` |
 
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 

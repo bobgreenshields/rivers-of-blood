@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Damiena
 name: Damiena Thorn
 role: 
 location: [hh]
